@@ -63,8 +63,8 @@ def personel_data(data):
         if re.search(r'^\d{2}\/\d{2}\/\d{2}$', j): # Date 11/11/11 ---- NEW: as in mm/dd/yy and dd/mm/yy
           y[i] = '11/11/11'
         #11-11 //// 11/11 //// 11.11
-        if re.search(r'^\d{1,2}/\d{2}$', j):
-          y[i] = '11/11'
+        #if re.search(r'^\d{1,2}/\d{2}$', j):
+          #y[i] = '11/11'
         if re.search(r'^\d{6}$', j) or re.search(r'^\d{8}$', j):
           y[i] = '111111'
         #if re.search(r'^\d{2}\.\d{2}\.\d{2}$', j):
@@ -129,8 +129,11 @@ def days_months(data, list_days, list_months):
 
 if __name__ == '__main__':
   
-  list_days = ['måndag', 'tisdag', 'onsdag', 'torsdag', 'fredag', 'lordag', 'sondag']
-  list_months = ['januari', 'februari', 'mars', 'april', 'maj', 'juni', 'juli', 'augusti', 'september', 'oktober', 'november', 'december']
+  #list_days = ['måndag', 'tisdag', 'onsdag', 'torsdag', 'fredag', 'lordag', 'sondag']
+  #list_months = ['januari', 'februari', 'mars', 'april', 'maj', 'juni', 'juli', 'augusti', 'september', 'oktober', 'november', 'december']
+
+  list_days = ['Monday', 'monday', 'Tuesday', 'tuesday', 'Wednesday', 'wednesday', 'Thursday', 'thursday', 'Friday', 'friday', 'Saturday', 'saturday', 'Sunday', 'sunday']
+  list_months = ['January', 'january', 'February', 'february', 'March', 'march', 'April', 'april', 'May', 'may', 'June', 'june', 'July', 'july', 'August', 'august', 'September', 'september', 'October', 'october', 'November', 'november', 'December', 'december']
 
   parser = argparse.ArgumentParser(description='Program takes an input text file and output text file')
   

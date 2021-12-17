@@ -41,10 +41,14 @@ def stations(data, list_stations):
 
 if __name__ == '__main__':
   
-  list_transports = ['buss', 'bil', 'personbil', 'motorcykel', 'lastbil', 'cykel', 'moped', 'helikopter', 'traktor']
+  #list_transports = ['buss', 'bil', 'personbil', 'motorcykel', 'lastbil', 'cykel', 'moped', 'helikopter', 'traktor']
   
-  list_stations = ['busshållplats', 'spårvagnhållplats', 'tågstation', 'flygplats', 'tunnelbanestation']
+  list_transports = ['bus', 'car', 'personal vehicle', 'motorcycle', 'truck', 'bicycle', 'moped', 'helicopter', 'tractor']
+    
+  #list_stations = ['busshållplats', 'spårvagnhållplats', 'tågstation', 'flygplats', 'tunnelbanestation']
   list_stations_en = ['busshållplatsen', 'spårvagnhållplatsen', 'tågstationen', 'flygplatsen', 'tunnelbanestationen']
+  
+  list_stations = ['bus stop', 'tram stop', 'train station', 'airport', 'metro station']
 
   parser = argparse.ArgumentParser(description='Program takes an input text file and output text file')
   

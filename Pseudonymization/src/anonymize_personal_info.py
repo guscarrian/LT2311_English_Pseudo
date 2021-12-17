@@ -142,8 +142,8 @@ def identify(data):
                 if re.search(r'^\d{2}\/\d{2}\/\d{2}$', j):  # Date 11/11/11 ---- ENG SAME mm/dd/yy and dd/mm/yy
                     line_split[i] = '<date_type>11/11/11</date_type>'
                 #11-11 //// 11/11 //// 11.11
-                if re.search(r'^\d{1,2}/\d{2}$', j):  # Date 11/11
-                    line_split[i] = '<date_type>11/11<date_type>'
+                #if re.search(r'^\d{1,2}/\d{2}$', j):  # Date 11/11
+                    #line_split[i] = '<date_type>11/11<date_type>'
                 if re.search(r'^\d{6}$', j) or re.search(r'^\d{8}$', j):  # Date 111111
                     line_split[i] = '<date_type>111111</date_type>'
                 #if re.search(r'^\d{2}\.\d{2}\.\d{2}$', j):  # Date 11.11.11

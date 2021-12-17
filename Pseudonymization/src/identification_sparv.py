@@ -322,20 +322,20 @@ def identify(data):
             y = y
             z = z
 #11-11 //// 11/11 //// 11.11
-        if re.search(r'\b(((0|1|2)\d{1})|(30|31))\/(0\d{1}|1(0|1|2)[^/])\b', y):  # Date 11/11 as in dd/mm
-            y = re.sub(r'\b(((0|1|2)\d{1})|(30|31))\/(0\d{1}|1(0|1|2)[^/])\b', '11/11/label/date_digits/label/'+str(indexing), y)
-            indexing += 1
-            z = z
-        else:
-            y = y
-            z = z
-        if re.search(r'\b(0\d{1}|1(0|1|2))\/(((0|1|2)\d{1})|(30|31))\b', y):  # Date 11/11 mm/dd
-            y = re.sub(r'\b(0\d{1}|1(0|1|2))\/(((0|1|2)\d{1})|(30|31))\b', '11/11/label/date_digits/label/'+str(indexing), y)
-            indexing += 1
-            z = z
-        else:
-            y = y
-            z = z
+        #if re.search(r'\b(((0|1|2)\d{1})|(30|31))\/(0\d{1}|1(0|1|2)[^/])\b', y):  # Date 11/11 as in dd/mm
+            #y = re.sub(r'\b(((0|1|2)\d{1})|(30|31))\/(0\d{1}|1(0|1|2)[^/])\b', '11/11/label/date_digits/label/'+str(indexing), y)
+            #indexing += 1
+            #z = z
+        #else:
+            #y = y
+            #z = z
+        #if re.search(r'\b(0\d{1}|1(0|1|2))\/(((0|1|2)\d{1})|(30|31))\b', y):  # Date 11/11 mm/dd
+            #y = re.sub(r'\b(0\d{1}|1(0|1|2))\/(((0|1|2)\d{1})|(30|31))\b', '11/11/label/date_digits/label/'+str(indexing), y)
+            #indexing += 1
+            #z = z
+        #else:
+            #y = y
+            #z = z
         _data.append((y, z))
     
     data = _data

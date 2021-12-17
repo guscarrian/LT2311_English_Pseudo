@@ -187,12 +187,12 @@ def identify(data):
             line = re.sub(r'\b([1-9]|0[1-9]|1[0-2])\/(([1-9]|0[1-9]|[1-2][0-9]|3[0-1])\/\d{2})\b', '11/11/11/label/date_digits/label/'+str(indexing), line)
             indexing += 1
 #11-11 //// 11/11 //// 11.11
-        if re.search(r'\b(((0|1|2)\d{1})|(30|31))\/(0\d{1}|1(0|1|2)[^/])\b', line):  # Date 11/11 as in dd/mm
-            line = re.sub(r'\b(((0|1|2)\d{1})|(30|31))\/(0\d{1}|1(0|1|2)[^/])\b', '11/11/label/date_digits/label/'+str(indexing), line)
-            indexing += 1
-        if re.search(r'\b(0\d{1}|1(0|1|2))\/(((0|1|2)\d{1})|(30|31))\b', line):  # Date 11/11 mm/dd
-            line = re.sub(r'\b(0\d{1}|1(0|1|2))\/(((0|1|2)\d{1})|(30|31))\b', '11/11/label/date_digits/label/'+str(indexing), line)
-            indexing += 1
+        #if re.search(r'\b(((0|1|2)\d{1})|(30|31))\/(0\d{1}|1(0|1|2)[^/])\b', line):  # Date 11/11 as in dd/mm
+            #line = re.sub(r'\b(((0|1|2)\d{1})|(30|31))\/(0\d{1}|1(0|1|2)[^/])\b', '11/11/label/date_digits/label/'+str(indexing), line)
+            #indexing += 1
+        #if re.search(r'\b(0\d{1}|1(0|1|2))\/(((0|1|2)\d{1})|(30|31))\b', line):  # Date 11/11 mm/dd
+            #line = re.sub(r'\b(0\d{1}|1(0|1|2))\/(((0|1|2)\d{1})|(30|31))\b', '11/11/label/date_digits/label/'+str(indexing), line)
+            #indexing += 1
         
         if 'mobil' in line:  # Mobile number format
             line_split = line.split(' ')

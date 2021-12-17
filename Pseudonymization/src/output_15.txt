@@ -1,1 +1,0 @@
-[[{"string": "Idag", "label": []}, {"string": "\u00e4r", "label": []}, {"string": "det", "label": []}, {"string": "19993-26-06", "label": []}, {"string": "och", "label": []}, {"string": "imorgon", "label": []}, {"string": "\u00e4r", "label": []}, {"string": "det", "label": []}, {"string": "1111-11-11", "label": ["date_digits", "1"]}]]
