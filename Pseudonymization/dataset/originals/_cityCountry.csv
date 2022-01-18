@@ -1,0 +1,1112 @@
+Cities,Countries
+Berlin,Germany
+Hamburg,Germany
+Munich,Germany
+Köln,Germany
+Frankfurt am Main,Germany
+Saint-Pierre,Saint-Pierre and Miquelon
+Miquelon,Saint-Pierre and Miquelon
+N'Djamena,Chad
+Moundou,Chad
+Sarh,Chad
+Abéché,Chad
+Koumra,Chad
+Bangui,Central African Republic
+Bimbo,Central African Republic
+Mbaïki,Central African Republic
+Berbérati,Central African Republic
+Kaga Bandoro,Central African Republic
+Zürich,Switzerland
+Genève,Switzerland
+Basel,Switzerland
+Bern,Switzerland
+Lausanne,Switzerland
+Santo Domingo,Dominican Republic
+Santiago de los Caballeros,Dominican Republic
+Santo Domingo Oeste,Dominican Republic
+Santo Domingo Este,Dominican Republic
+San Pedro de Macorís,Dominican Republic
+Guayaquil,Ecuador
+Quito,Ecuador
+Cuenca,Ecuador
+Santo Domingo de los Colorados,Ecuador
+Machala,Ecuador
+Basseterre,Saint Kitts and Nevis
+Fig Tree,Saint Kitts and Nevis
+Market Shop,Saint Kitts and Nevis
+Saint Paul’s,Saint Kitts and Nevis
+Middle Island,Saint Kitts and Nevis
+Djibouti,Djibouti
+'Ali Sabieh,Djibouti
+Ḏânan,Djibouti
+Tadjourah,Djibouti
+Obock,Djibouti
+The Valley,Anguilla
+Blowing Point Village,Anguilla
+Sandy Ground Village,Anguilla
+North Side,Anguilla
+The Quarter,Anguilla
+Gibraltar,Gibraltar
+Macau,Macao
+Freetown,Sierra Leone
+Bo,Sierra Leone
+Kenema,Sierra Leone
+Koidu,Sierra Leone
+Makeni,Sierra Leone
+McMurdo Station,Antarctica
+East Jerusalem,Palestine
+Gaza,Palestine
+Khān Yūnis,Palestine
+Jabālyā,Palestine
+Hebron,Palestine
+Grytviken,South Georgia and the South Sandwich Islands
+Oslo,Norway
+Bergen,Norway
+Trondheim,Norway
+Stavanger,Norway
+Drammen,Norway
+Shanghai,China
+Beijing,China
+Tianjin,China
+Guangzhou,China
+Shenzhen,China
+Andorra la Vella,Andorra
+les Escaldes,Andorra
+Encamp,Andorra
+Sant Julià de Lòria,Andorra
+la Massana,Andorra
+Singapore,Singapore
+Ouagadougou,Burkina Faso
+Bobo-Dioulasso,Burkina Faso
+Koudougou,Burkina Faso
+Ouahigouya,Burkina Faso
+Banfora,Burkina Faso
+Tallinn,Estonia
+Tartu,Estonia
+Narva,Estonia
+Kohtla-Järve,Estonia
+Pärnu,Estonia
+Funafuti,Tuvalu
+Alapi Village,Tuvalu
+Fakaifou Village,Tuvalu
+Savave Village,Tuvalu
+Tanrake Village,Tuvalu
+Amsterdam,Netherlands
+Rotterdam,Netherlands
+The Hague,Netherlands
+Utrecht,Netherlands
+Eindhoven,Netherlands
+Juba,South Sudan
+Winejok,South Sudan
+Malakal,South Sudan
+Wau,South Sudan
+Pajok,South Sudan
+Douala,Cameroon
+Yaoundé,Cameroon
+Garoua,Cameroon
+Kousséri,Cameroon
+Bamenda,Cameroon
+Pyongyang,North Korea
+Hamhŭng,North Korea
+Namp’o,North Korea
+Sunch’ŏn,North Korea
+Hŭngnam,North Korea
+Manzini,Swaziland
+Mbabane,Swaziland
+Big Bend,Swaziland
+Malkerns,Swaziland
+Nhlangano,Swaziland
+Adamstown,Pitcairn Islands
+Saint Helier,Jersey
+Le Hocq,Jersey
+Riga,Latvia
+Daugavpils,Latvia
+Liepāja,Latvia
+Jelgava,Latvia
+Jūrmala,Latvia
+Monte-Carlo,Monaco
+La Condamine,Monaco
+Fontvieille,Monaco
+Moneghetti,Monaco
+Saint-Roman,Monaco
+Dushanbe,Tajikistan
+Khŭjand,Tajikistan
+Kŭlob,Tajikistan
+Qŭrghonteppa,Tajikistan
+Istaravshan,Tajikistan
+Majuro,Marshall Islands
+Ebaye,Marshall Islands
+Wotje,Marshall Islands
+Namdrik,Marshall Islands
+Kili,Marshall Islands
+Bucharest,Romania
+Sector 3,Romania
+Sector 6,Romania
+Sector 2,Romania
+Iaşi,Romania
+Athens,Greece
+Thessaloníki,Greece
+Pátra,Greece
+Piraeus,Greece
+Lárisa,Greece
+Kabul,Afghanistan
+Kandahār,Afghanistan
+Mazār-e Sharīf,Afghanistan
+Herāt,Afghanistan
+Jalālābād,Afghanistan
+Tokyo,Japanese
+Yokohama,Japanese
+Osaka,Japanese
+Nagoya,Japanese
+Sapporo,Japanese
+Sarajevo,Bosnia and Herzegovina
+Banja Luka,Bosnia and Herzegovina
+Zenica,Bosnia and Herzegovina
+Tuzla,Bosnia and Herzegovina
+Mostar,Bosnia and Herzegovina
+Mexico City,Mexico
+Iztapalapa,Mexico
+Ecatepec de Morelos,Mexico
+Guadalajara,Mexico
+Puebla,Mexico
+Dededo Village,Guam
+Yigo Village,Guam
+Tamuning,Guam
+Tamuning-Tumon-Harmon Village,Guam
+Mangilao Village,Guam
+Road Town,British Virgin Islands
+Dar es Salaam,Tanzania
+Mwanza,Tanzania
+Zanzibar,Tanzania
+Arusha,Tanzania
+Mbeya,Tanzania
+Libreville,Gabon
+Port-Gentil,Gabon
+Franceville,Gabon
+Oyem,Gabon
+Moanda,Gabon
+Auckland,New Zealand
+Wellington,New Zealand
+Christchurch,New Zealand
+Manukau City,New Zealand
+Waitakere,New Zealand
+Arijejen,Nauru
+Menen,Nauru
+Baiti,Nauru
+Anabar,Nauru
+Uaboe,Nauru
+Tehran,Iran
+Mashhad,Iran
+Isfahan,Iran
+Karaj,Iran
+Tabriz,Iran
+Kampala,Uganda
+Gulu,Uganda
+Lira,Uganda
+Mbarara,Uganda
+Jinja,Uganda
+Chisinau,Moldova
+Tiraspol,Moldova
+Bălţi,Moldova
+Bender,Moldova
+Rîbniţa,Moldova
+Manama,Bahrain
+Al Muharraq,Bahrain
+Ar Rifā‘,Bahrain
+Dār Kulayb,Bahrain
+Madīnat Ḩamad,Bahrain
+Saint Peter Port,Guernsey
+Saint Sampson,Guernsey
+Castel,Guernsey
+St. Andrew`s,Guernsey
+Saint Saviour,Guernsey
+Nuuk,Greenland
+Sisimiut,Greenland
+Ilulissat,Greenland
+Qaqortoq,Greenland
+Aasiaat,Greenland
+Maseru,Lesotho
+Mafeteng,Lesotho
+Leribe,Lesotho
+Maputsoe,Lesotho
+Mohale’s Hoek,Lesotho
+Tarawa,Kiribati
+Betio Village,Kiribati
+Bikenibeu Village,Kiribati
+Teaoraereke Village,Kiribati
+Bairiki Village,Kiribati
+Pristina,Kosovo
+Prizren,Kosovo
+Mitrovicë,Kosovo
+Gjakovë,Kosovo
+Suva Reka,Kosovo
+Dili,Timor Leste
+Maliana,Timor Leste
+Suai,Timor Leste
+Likisá,Timor Leste
+Aileu,Timor Leste
+Rome,Italy
+Milan,Italy
+Naples,Italy
+Turin,Italy
+Palermo,Italy
+Ho Chi Minh City,Vietnam
+Hanoi,Vietnam
+Da Nang,Vietnam
+Haiphong,Vietnam
+Biên Hòa,Vietnam
+Lilongwe,Malawi
+Blantyre,Malawi
+Mzuzu,Malawi
+Zomba,Malawi
+Kasungu,Malawi
+Belgrade,Serbia
+Niš,Serbia
+Novi Sad,Serbia
+Zemun,Serbia
+Kragujevac,Serbia
+Les Abymes,Guadeloupe
+Baie-Mahault,Guadeloupe
+Le Gosier,Guadeloupe
+Petit-Bourg,Guadeloupe
+Sainte-Anne,Guadeloupe
+Cotonou,Benin
+Abomey-Calavi,Benin
+Djougou,Benin
+Porto-Novo,Benin
+Parakou,Benin
+Jerusalem,Israel
+Tel Aviv,Israel
+West Jerusalem,Israel
+Haifa,Israel
+Ashdod,Israel
+Paris,France
+Marseille,France
+Lyon,France
+Toulouse,France
+Nice,France
+Saint-Denis,Reunion
+Saint-Paul,Reunion
+Saint-Pierre,Reunion
+Le Tampon,Reunion
+Saint-André,Reunion
+Saint George,Bermuda
+Mumbai,India
+Delhi,India
+Bengaluru,India
+Kolkata,India
+Chennai,India
+Saint John’s,Antigua and Barbuda
+All Saints,Antigua and Barbuda
+Piggotts,Antigua and Barbuda
+Liberta,Antigua and Barbuda
+Bolands,Antigua and Barbuda
+Colombo,Sri Lanka
+Dehiwala-Mount Lavinia,Sri Lanka
+Mount Lavinia,Sri Lanka
+Galkissa,Sri Lanka
+Moratuwa,Sri Lanka
+Kralendijk,Bonaire
+Dorp Antriol,Bonaire
+Upper Hell's Gate,Bonaire
+Dorp Rincón,Bonaire
+Dorp Tera Kora,Bonaire
+Amman,Jordan
+Zarqa,Jordan
+Irbid,Jordan
+Russeifa,Jordan
+Wādī as Sīr,Jordan
+Reykjavík,Iceland
+Kópavogur,Iceland
+Hafnarfjörður,Iceland
+Akureyri,Iceland
+Garðabær,Iceland
+Bogotá,Colombia
+Cali,Colombia
+Medellín,Colombia
+Barranquilla,Colombia
+Cartagena,Colombia
+Maputo,Mozambique
+Matola,Mozambique
+Beira,Mozambique
+Nampula,Mozambique
+Chimoio,Mozambique
+Skopje,Macedonia
+Bitola,Macedonia
+Kumanovo,Macedonia
+Prilep,Macedonia
+Tetovo,Macedonia
+Flying Fish Cove,Christmas Island
+São Paulo,Brazil
+Rio de Janeiro,Brazil
+Salvador,Brazil
+Fortaleza,Brazil
+Belo Horizonte,Brazil
+Antananarivo,Madagascar
+Toamasina,Madagascar
+Antsirabe,Madagascar
+Fianarantsoa,Madagascar
+Mahajanga,Madagascar
+Muscat,Oman
+Seeb,Oman
+Şalālah,Oman
+Bawshar,Oman
+Sohar,Oman
+São Tomé,São Tomé and Príncipe
+Santo António,São Tomé and Príncipe
+São João dos Angolares,São Tomé and Príncipe
+Almaty,Kazakhstan
+Karagandy,Kazakhstan
+Shymkent,Kazakhstan
+Taraz,Kazakhstan
+Astana,Kazakhstan
+Saint Croix,US Virgin Islands
+Charlotte Amalie,US Virgin Islands
+Cruz Bay,US Virgin Islands
+Bandar Seri Begawan,Brunei
+Kuala Belait,Brunei
+Seria,Brunei
+Tutong,Brunei
+Kapok,Brunei
+London,UK
+Birmingham,UK
+Liverpool,UK
+Nottingham,UK
+Sheffield,UK
+Phnom Penh,Cambodia
+Takeo,Cambodia
+Sihanoukville,Cambodia
+Battambang,Cambodia
+Siem Reap,Cambodia
+Casablanca,Morocco
+Rabat,Morocco
+Fès,Morocco
+Sale,Morocco
+Marrakesh,Morocco
+Camayenne,Guinea
+Conakry,Guinea
+Nzérékoré,Guinea
+Kindia,Guinea
+Kankan,Guinea
+Aleppo,Syria
+Damascus,Syria
+Homs,Syria
+Ḩamāh,Syria
+Latakia,Syria
+Serekunda,Gambia
+Brikama,Gambia
+Bakau,Gambia
+Banjul,Gambia
+Farafenni,Gambia
+Brazzaville,Republic of the Congo
+Pointe-Noire,Republic of the Congo
+Dolisie,Republic of the Congo
+Kayes,Republic of the Congo
+Owando,Republic of the Congo
+Tórshavn,Faroe Islands
+Klaksvík,Faroe Islands
+Hoyvík,Faroe Islands
+Argir,Faroe Islands
+Vágur,Faroe Islands
+Addis Ababa,Ethiopia
+Dire Dawa,Ethiopia
+Mek'ele,Ethiopia
+Nazrēt,Ethiopia
+Bahir Dar,Ethiopia
+Mamoudzou,Mayotte
+Koungou,Mayotte
+Dzaoudzi,Mayotte
+Dembeni,Mayotte
+Pamandzi,Mayotte
+Kinshasa,The Democratic Republic of Kongo
+Lubumbashi,The Democratic Republic of Kongo
+Mbuji-Mayi,The Democratic Republic of Kongo
+Kisangani,The Democratic Republic of Kongo
+Masina,The Democratic Republic of Kongo
+Birkirkara,Malta
+Qormi,Malta
+Mosta,Malta
+Żabbar,Malta
+San Pawl il-Baħar,Malta
+Ashgabat,Turkmenistan
+Türkmenabat,Turkmenistan
+Daşoguz,Turkmenistan
+Mary,Turkmenistan
+Balkanabat,Turkmenistan
+Jakarta,Indonesia
+Surabaya,Indonesia
+Medan,Indonesia
+Bandung,Indonesia
+Bekasi,Indonesia
+Mata-Utu,Wallis and Futuna
+Leava,Wallis and Futuna
+Helsinki,Finland
+Espoo,Finland
+Tampere,Finland
+Vantaa,Finland
+Turku,Finland
+San José,Costa Rica
+Limón,Costa Rica
+San Francisco,Costa Rica
+Alajuela,Costa Rica
+Liberia,Costa Rica
+Port-aux-Français,French Southern Territories
+Gustavia,Saint Barthélemy
+Laayoune,Western Sahara
+Dakhla,Western Sahara
+Laayoune Plage,Western Sahara
+Nassau,Bahamas
+Lucaya,Bahamas
+Freeport,Bahamas
+West End,Bahamas
+Cooper’s Town,Bahamas
+Nairobi,Kenya
+Mombasa,Kenya
+Nakuru,Kenya
+Eldoret,Kenya
+Kisumu,Kenya
+Atafu Village,Tokelau Islands
+Nukunonu,Tokelau Islands
+Fale old settlement,Tokelau Islands
+Luxembourg,Luxembourg
+Esch-sur-Alzette,Luxembourg
+Dudelange,Luxembourg
+Schifflange,Luxembourg
+Bettembourg,Luxembourg
+Sanaa,Yemen
+Al Ḩudaydah,Yemen
+Ta‘izz,Yemen
+Aden,Yemen
+Mukalla,Yemen
+Lima,Peru
+Arequipa,Peru
+Callao,Peru
+Trujillo,Peru
+Chiclayo,Peru
+Paramaribo,Suriname
+Lelydorp,Suriname
+Brokopondo,Suriname
+Nieuw Nickerie,Suriname
+Moengo,Suriname
+Dublin,Ireland
+Cork,Ireland
+Dún Laoghaire,Ireland
+Luimneach,Ireland
+Gaillimh,Ireland
+Baghdad,Iraq
+Basrah,Iraq
+Al Mawşil al Jadīdah,Iraq
+Al Başrah al Qadīmah,Iraq
+Mosul,Iraq
+Ljubljana,Slovenia
+Maribor,Slovenia
+Celje,Slovenia
+Kranj,Slovenia
+Velenje,Slovenia
+Tbilisi,Georgia
+Kutaisi,Georgia
+Batumi,Georgia
+Sokhumi,Georgia
+Zugdidi,Georgia
+Serravalle,San Marino
+Borgo Maggiore,San Marino
+San Marino,San Marino
+Domagnano,San Marino
+Fiorentino,San Marino
+Asmara,Eritrea
+Keren,Eritrea
+Massawa,Eritrea
+Assab,Eritrea
+Mendefera,Eritrea
+Hong Kong,Hong Kong
+Kowloon,Hong Kong
+Tsuen Wan,Hong Kong
+Yuen Long Kau Hui,Hong Kong
+Tung Chung,Hong Kong
+New York City,USA
+Los Angeles,USA
+Chicago,USA
+Brooklyn,USA
+Houston,USA
+Bratislava,Slovakia
+Košice,Slovakia
+Prešov,Slovakia
+Nitra,Slovakia
+Žilina,Slovakia
+Kyiv,Ukraine
+Kharkiv,Ukraine
+Dnipro,Ukraine
+Donetsk,Ukraine
+Odessa,Ukraine
+Baku,Azerbaijan
+Ganja,Azerbaijan
+Sumqayıt,Azerbaijan
+Lankaran,Azerbaijan
+Mingelchaur,Azerbaijan
+Riyadh,Saudi Arabia
+Jeddah,Saudi Arabia
+Mecca,Saudi Arabia
+Medina,Saudi Arabia
+Sulţānah,Saudi Arabia
+Nouméa,New Caledonia
+Mont-Dore,New Caledonia
+Dumbéa,New Caledonia
+Païta,New Caledonia
+Wé,New Caledonia
+Castries,Saint Lucia
+Bisee,Saint Lucia
+Vieux Fort,Saint Lucia
+Micoud,Saint Lucia
+Soufrière,Saint Lucia
+Suva,Fiji
+Lautoka,Fiji
+Labasa,Fiji
+Ba,Fiji
+Levuka,Fiji
+Port Erin,Isle of Man
+Castletown,Isle of Man
+Laxey,Isle of Man
+Ballabeg,Isle of Man
+Lezayre,Isle of Man
+Montevideo,Uruguay
+Salto,Uruguay
+Paysandú,Uruguay
+Las Piedras,Uruguay
+Rivera,Uruguay
+Roseau,Dominica
+Portsmouth,Dominica
+Marigot,Dominica
+Berekua,Dominica
+Mahaut,Dominica
+Dhaka,Bangladesh
+Chittagong,Bangladesh
+Khulna,Bangladesh
+Rājshāhi,Bangladesh
+Comilla,Bangladesh
+Bujumbura,Burundi
+Muyinga,Burundi
+Ruyigi,Burundi
+Gitega,Burundi
+Rutana,Burundi
+Kigali,Rwanda
+Butare,Rwanda
+Gitarama,Rwanda
+Musanze,Rwanda
+Gisenyi,Rwanda
+Cape Town,South Africa
+Durban,South Africa
+Johannesburg,South Africa
+Soweto,South Africa
+Pretoria,South Africa
+Mogadishu,Somalia
+Hargeysa,Somalia
+Berbera,Somalia
+Kismayo,Somalia
+Marka,Somalia
+Zagreb,Croatia
+Split,Croatia
+Rijeka,Croatia
+Osijek,Croatia
+Zadar,Croatia
+Havana,Cuba
+Santiago de Cuba,Cuba
+Camagüey,Cuba
+Holguín,Cuba
+Guantánamo,Cuba
+Tripoli,Libya
+Benghazi,Libya
+Mişrātah,Libya
+Tarhuna,Libya
+Al Khums,Libya
+Vilnius,Lithuania
+Kaunas,Lithuania
+Klaipėda,Lithuania
+Šiauliai,Lithuania
+Panevėžys,Lithuania
+Copenhagen,Denmark
+Århus,Denmark
+Odense,Denmark
+Aalborg,Denmark
+Frederiksberg,Denmark
+Bamako,Mali
+Sikasso,Mali
+Mopti,Mali
+Koutiala,Mali
+Ségou,Mali
+Warsaw,Poland
+Łódź,Poland
+Kraków,Poland
+Wrocław,Poland
+Poznań,Poland
+Tunis,Tunisia
+Sfax,Tunisia
+Sousse,Tunisia
+Kairouan,Tunisia
+Bizerte,Tunisia
+Vienna,Austria
+Graz,Austria
+Linz,Austria
+Favoriten,Austria
+Donaustadt,Austria
+Abidjan,Ivory Coast
+Abobo,Ivory Coast
+Bouaké,Ivory Coast
+Daloa,Ivory Coast
+San-Pédro,Ivory Coast
+Kingstown,Saint Vincent and the Grenadines
+Kingstown Park,Saint Vincent and the Grenadines
+Georgetown,Saint Vincent and the Grenadines
+Byera Village,Saint Vincent and the Grenadines
+Biabou,Saint Vincent and the Grenadines
+Asunción,Paraguay
+Ciudad del Este,Paraguay
+San Lorenzo,Paraguay
+Capiatá,Paraguay
+Lambaré,Paraguay
+Bissau,Guinea-Bissau
+Bafatá,Guinea-Bissau
+Gabú,Guinea-Bissau
+Bissorã,Guinea-Bissau
+Bolama,Guinea-Bissau
+Cockburn Town,Turks and Caicos Islands
+Saipan,Northern Mariana Islands
+San Jose Village,Northern Mariana Islands
+Santiago,Chile
+Puente Alto,Chile
+Antofagasta,Chile
+Viña del Mar,Chile
+Valparaíso,Chile
+Kathmandu,Nepal
+Pokhara,Nepal
+Pātan,Nepal
+Biratnagar,Nepal
+Birgañj,Nepal
+Pago Pago,American Samoa
+Tāfuna,American Samoa
+Faleniu,American Samoa
+Aūa,American Samoa
+Mapusagafou,American Samoa
+Sydney,Australia
+Melbourne,Australia
+Brisbane,Australia
+Perth,Australia
+Adelaide,Australia
+Kingston,Jamaica
+New Kingston,Jamaica
+Spanish Town,Jamaica
+Portmore,Jamaica
+Montego Bay,Jamaica
+Faaa,French Polynesia
+Papeete,French Polynesia
+Punaauia,French Polynesia
+Pirae,French Polynesia
+Mahina,French Polynesia
+Gaborone,Botswana
+Francistown,Botswana
+Molepolole,Botswana
+Selebi-Phikwe,Botswana
+Maun,Botswana
+Fort-de-France,Martinique
+Le Lamentin,Martinique
+Le Robert,Martinique
+Sainte-Marie,Martinique
+Le François,Martinique
+Bridgetown,Barbados
+Speightstown,Barbados
+Oistins,Barbados
+Bathsheba,Barbados
+Holetown,Barbados
+Apia,Samoa
+Asau,Samoa
+Mulifanua,Samoa
+Faleula,Samoa
+Siusega,Samoa
+Chaguanas,Trinidad and Tobago
+Mon Repos,Trinidad and Tobago
+San Fernando,Trinidad and Tobago
+Port of Spain,Trinidad and Tobago
+Rio Claro,Trinidad and Tobago
+Dubai,United Arab Emirates
+Abu Dhabi,United Arab Emirates
+Sharjah,United Arab Emirates
+Al Ain,United Arab Emirates
+Ajman,United Arab Emirates
+Bishkek,Kyrgyzstan
+Osh,Kyrgyzstan
+Jalal-Abad,Kyrgyzstan
+Karakol,Kyrgyzstan
+Tokmok,Kyrgyzstan
+Longyearbyen,Svalbard
+Olonkinbyen,Svalbard
+Tashkent,Uzbekistan
+Namangan,Uzbekistan
+Samarqand,Uzbekistan
+Andijon,Uzbekistan
+Bukhara,Uzbekistan
+Jamestown,Saint Helena
+Georgetown,Saint Helena
+Edinburgh of the Seven Seas,Saint Helena
+Alofi,Niue
+Vientiane,Laos
+Pakse,Laos
+Thakhèk,Laos
+Savannakhét,Laos
+Luang Prabang,Laos
+Georgetown,Guyana
+New Amsterdam,Guyana
+Anna Regina,Guyana
+Bartica,Guyana
+Skeldon,Guyana
+Seoul,South Korea
+Busan,South Korea
+Incheon,South Korea
+Daegu,South Korea
+Daejeon,South Korea
+Accra,Ghana
+Kumasi,Ghana
+Tamale,Ghana
+Takoradi,Ghana
+Atsiaman,Ghana
+Tirana,Albania
+Durrës,Albania
+Elbasan,Albania
+Vlorë,Albania
+Shkodër,Albania
+Yangon,Myanmar
+Mandalay,Myanmar
+Nay Pyi Taw,Myanmar
+Mawlamyine,Myanmar
+Kyain Seikgyi Township,Myanmar
+Khartoum,Sudan
+Omdurman,Sudan
+Nyala,Sudan
+Port Sudan,Sudan
+Kassala,Sudan
+Vatican City,Vatican City State
+Honiara,Solomon Islands
+Auki,Solomon Islands
+Gizo,Solomon Islands
+Buala,Solomon Islands
+Tulagi,Solomon Islands
+Avarua,Cook Islands
+Toronto,Canada
+Montréal,Canada
+Calgary,Canada
+Ottawa,Canada
+Edmonton,Canada
+Praia,Cape Verde
+Mindelo,Cape Verde
+Santa Maria,Cape Verde
+Cova Figueira,Cape Verde
+Santa Cruz,Cape Verde
+Podgorica,Montenegro
+Nikšić,Montenegro
+Herceg-Novi,Montenegro
+Pljevlja,Montenegro
+Budva,Montenegro
+Nicosia,Cyprus
+Limassol,Cyprus
+Larnaca,Cyprus
+Famagusta,Cyprus
+Paphos,Cyprus
+Taipei,Taiwan
+Kaohsiung,Taiwan
+Taichung,Taiwan
+Tainan,Taiwan
+Banqiao,Taiwan
+Doha,Qatar
+Ar Rayyān,Qatar
+Umm Şalāl Muḩammad,Qatar
+Al Wakrah,Qatar
+Al Khawr,Qatar
+Prague,Czech Republic
+Brno,Czech Republic
+Ostrava,Czech Republic
+Pilsen,Czech Republic
+Olomouc,Czech Republic
+Minsk,Belarus
+Gomel,Belarus
+Mahilyow,Belarus
+Vitebsk,Belarus
+Hrodna,Belarus
+George Town,Cayman Islands
+West Bay,Cayman Islands
+Bodden Town,Cayman Islands
+East End,Cayman Islands
+North Side,Cayman Islands
+Moutsamoudou,Comoros
+Fomboni,Comoros
+Domoni,Comoros
+Tsimbeo,Comoros
+Adda-Douéni,Comoros
+Al Aḩmadī,Kuwait
+Ḩawallī,Kuwait
+As Sālimīyah,Kuwait
+Şabāḩ as Sālim,Kuwait
+Al Farwānīyah,Kuwait
+Willemstad,Curaçao
+Sint Michiel Liber,Curaçao
+Dorp Soto,Curaçao
+Lisbon,Portugal
+Porto,Portugal
+Amadora,Portugal
+Braga,Portugal
+Setúbal,Portugal
+Nuku‘alofa,Tonga
+Neiafu,Tonga
+Haveluloto,Tonga
+Vaini,Tonga
+Pangai,Tonga
+Weno,Micronesia
+Tofol,Micronesia
+Colonia,Micronesia
+Kolonia,Micronesia
+Kolonia Town,Micronesia
+Bangkok,Thailand
+Samut Prakan,Thailand
+Mueang Nonthaburi,Thailand
+Udon Thani,Thailand
+Chon Buri,Thailand
+Beirut,Lebanon
+Ra’s Bayrūt,Lebanon
+Tripoli,Lebanon
+Sidon,Lebanon
+Tyre,Lebanon
+West Island,Coconut Islands
+Madrid,Spain
+Barcelona,Spain
+Valencia,Spain
+Sevilla,Spain
+Zaragoza,Spain
+Schaan,Liechtenstein
+Vaduz,Liechtenstein
+Triesen,Liechtenstein
+Balzers,Liechtenstein
+Eschen,Liechtenstein
+Mariehamn,Åland Islands
+Jomala,Åland Islands
+Eckerö,Åland Islands
+Föglö,Åland Islands
+Brändö,Åland Islands
+Moscow,Russia
+Saint Petersburg,Russia
+Novosibirsk,Russia
+Yekaterinburg,Russia
+Nizhniy Novgorod,Russia
+Thimphu,Bhutan
+Punākha,Bhutan
+Tsirang,Bhutan
+Phuntsholing,Bhutan
+Pemagatshel,Bhutan
+Male,Maldives
+Fuvahmulah,Maldives
+Hithadhoo,Maldives
+Kulhudhuffushi,Maldives
+Thinadhoo,Maldives
+Lusaka,Zambia
+Kitwe,Zambia
+Ndola,Zambia
+Kabwe,Zambia
+Chingola,Zambia
+Nouakchott,Mauritania
+Nouadhibou,Mauritania
+Néma,Mauritania
+Kaédi,Mauritania
+Kiffa,Mauritania
+Quezon City,Philippines
+Manila,Philippines
+Caloocan City,Philippines
+Budta,Philippines
+Davao,Philippines
+Luanda,Angola
+N’dalatando,Angola
+Huambo,Angola
+Lobito,Angola
+Benguela,Angola
+Port Louis,Mauritius
+Beau Bassin-Rose Hill,Mauritius
+Vacoas,Mauritius
+Curepipe,Mauritius
+Quatre Bornes,Mauritius
+Saint George's,Grenada
+Gouyave,Grenada
+Saint David’s,Grenada
+Sauteurs,Grenada
+Hillsborough,Grenada
+Port-Vila,Vanuatu
+Luganville,Vanuatu
+Norsup,Vanuatu
+Port-Olry,Vanuatu
+Isangel,Vanuatu
+Marigot,Saint Martin
+Ulan Bator,Mongolia
+Erdenet,Mongolia
+Darhan,Mongolia
+Khovd,Mongolia
+Ölgii,Mongolia
+Managua,Nicaragua
+León,Nicaragua
+Masaya,Nicaragua
+Chinandega,Nicaragua
+Matagalpa,Nicaragua
+Koror,Palau
+Koror Town,Palau
+Kloulklubed,Palau
+Ulimang,Palau
+Mengellang,Palau
+Cul de Sac,Sint Maarten
+Lower Prince’s Quarter,Sint Maarten
+Koolbaai,Sint Maarten
+Philipsburg,Sint Maarten
+Buenos Aires,Argentina
+Córdoba,Argentina
+Rosario,Argentina
+Mendoza,Argentina
+San Miguel de Tucumán,Argentina
+Budapest,Hungary
+Debrecen,Hungary
+Miskolc,Hungary
+Szeged,Hungary
+Pécs,Hungary
+Algiers,Algeria
+Boumerdas,Algeria
+Oran,Algeria
+Tébessa,Algeria
+Constantine,Algeria
+Bata,Equatorial Guinea
+Malabo,Equatorial Guinea
+Ebebiyin,Equatorial Guinea
+Aconibe,Equatorial Guinea
+Añisoc,Equatorial Guinea
+Caracas,Venezuela
+Maracaibo,Venezuela
+Maracay,Venezuela
+Valencia,Venezuela
+Barquisimeto,Venezuela
+Karachi,Pakistan
+Lahore,Pakistan
+Faisalabad,Pakistan
+Rawalpindi,Pakistan
+Multan,Pakistan
+San Juan,Puerto Rico
+Bayamón,Puerto Rico
+Carolina,Puerto Rico
+Ponce,Puerto Rico
+Caguas,Puerto Rico
+Oranjestad,Aruba
+Tanki Leendert,Aruba
+San Nicolas,Aruba
+Santa Cruz,Aruba
+Paradera,Aruba
+Brades,Montserrat
+Saint Peters,Montserrat
+Niamey,Niger
+Zinder,Niger
+Maradi,Niger
+Agadez,Niger
+Alaghsas,Niger
+Cayenne,French Guiana
+Matoury,French Guiana
+Saint-Laurent-du-Maroni,French Guiana
+Kourou,French Guiana
+Rémire-Montjoly,French Guiana
+Kota Bharu,Malaysia
+Kuala Lumpur,Malaysia
+Klang,Malaysia
+Kampung Baru Subang,Malaysia
+Johor Bahru,Malaysia
+Sofia,Bulgaria
+Plovdiv,Bulgaria
+Varna,Bulgaria
+Burgas,Bulgaria
+Ruse,Bulgaria
+Cairo,Egypt
+Alexandria,Egypt
+Giza,Egypt
+Port Said,Egypt
+Suez,Egypt
+Santa Cruz de la Sierra,Bolivia
+Cochabamba,Bolivia
+La Paz,Bolivia
+Sucre,Bolivia
+Oruro,Bolivia
+Monrovia,Liberia
+Gbarnga,Liberia
+Kakata,Liberia
+Bensonville,Liberia
+Voinjama,Liberia
+Belize City,Belize
+San Ignacio,Belize
+Orange Walk,Belize
+Belmopan,Belize
+Dangriga,Belize
+Anse Boileau,Seychelles
+Bel Ombre,Seychelles
+Beau Vallon,Seychelles
+Cascade,Seychelles
+Anse Royale,Seychelles
+Brussels,Belgium
+Antwerpen,Belgium
+Gent,Belgium
+Charleroi,Belgium
+Liège,Belgium
+Port-au-Prince,Haiti
+Carrefour,Haiti
+Delmas 73,Haiti
+Pétionville,Haiti
+Port-de-Paix,Haiti
+Yerevan,Armenia
+Gyumri,Armenia
+Vanadzor,Armenia
+Vagharshapat,Armenia
+Hrazdan,Armenia
+Guatemala City,Guatemala
+Mixco,Guatemala
+Villa Nueva,Guatemala
+Petapa,Guatemala
+San Juan Sacatepéquez,Guatemala
+Lagos,Nigeria
+Kano,Nigeria
+Ibadan,Nigeria
+Kaduna,Nigeria
+Port Harcourt,Nigeria
+Panamá,Panama
+San Miguelito,Panama
+Juan Díaz,Panama
+David,Panama
+Arraiján,Panama
+San Salvador,El Salvador
+Soyapango,El Salvador
+Santa Ana,El Salvador
+San Miguel,El Salvador
+Mejicanos,El Salvador
+Harare,Zimbabwe
+Bulawayo,Zimbabwe
+Chitungwiza,Zimbabwe
+Mutare,Zimbabwe
+Gweru,Zimbabwe
+Dakar,Senegal
+Pikine,Senegal
+Touba,Senegal
+Thiès,Senegal
+Thiès Nones,Senegal
+Lomé,Togo
+Sokodé,Togo
+Kara,Togo
+Atakpamé,Togo
+Kpalimé,Togo
+Tegucigalpa,Honduras
+San Pedro Sula,Honduras
+Choloma,Honduras
+La Ceiba,Honduras
+El Progreso,Honduras
+Port Moresby,Papua New Guinea
+Lae,Papua New Guinea
+Arawa,Papua New Guinea
+Mount Hagen,Papua New Guinea
+Popondetta,Papua New Guinea
+Istanbul,Turkey
+Ankara,Turkey
+İzmir,Turkey
+Bursa,Turkey
+Adana,Turkey
