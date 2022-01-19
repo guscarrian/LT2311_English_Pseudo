@@ -1,41 +1,41 @@
 Cities,Countries
-Berlin,Germany
-Hamburg,Germany
-Munich,Germany
-Köln,Germany
-Frankfurt am Main,Germany
-Saint-Pierre,Saint-Pierre and Miquelon
-Miquelon,Saint-Pierre and Miquelon
-N'Djamena,Chad
-Moundou,Chad
-Sarh,Chad
-Abéché,Chad
-Koumra,Chad
-Bangui,Central African Republic
-Bimbo,Central African Republic
-Mbaïki,Central African Republic
-Berbérati,Central African Republic
-Kaga Bandoro,Central African Republic
-Zürich,Switzerland
-Genève,Switzerland
-Basel,Switzerland
-Bern,Switzerland
-Lausanne,Switzerland
-Santo Domingo,Dominican Republic
-Santiago de los Caballeros,Dominican Republic
-Santo Domingo Oeste,Dominican Republic
-Santo Domingo Este,Dominican Republic
-San Pedro de Macorís,Dominican Republic
+Berlin,Tyskland
+Hamburg,Tyskland
+Munich,Tyskland
+Köln,Tyskland
+Frankfurt am Main,Tyskland
+Saint-Pierre,Saint-Pierre och Miquelon
+Miquelon,Saint-Pierre och Miquelon
+N'Djamena,Tchad
+Moundou,Tchad
+Sarh,Tchad
+Abéché,Tchad
+Koumra,Tchad
+Bangui,Centralafrikanska republiken
+Bimbo,Centralafrikanska republiken
+Mbaïki,Centralafrikanska republiken
+Berbérati,Centralafrikanska republiken
+Kaga Bandoro,Centralafrikanska republiken
+Zürich,Schweiz
+Genève,Schweiz
+Basel,Schweiz
+Bern,Schweiz
+Lausanne,Schweiz
+Santo Domingo,Dominikanska republiken
+Santiago de los Caballeros,Dominikanska republiken
+Santo Domingo Oeste,Dominikanska republiken
+Santo Domingo Este,Dominikanska republiken
+San Pedro de Macorís,Dominikanska republiken
 Guayaquil,Ecuador
 Quito,Ecuador
 Cuenca,Ecuador
 Santo Domingo de los Colorados,Ecuador
 Machala,Ecuador
-Basseterre,Saint Kitts and Nevis
-Fig Tree,Saint Kitts and Nevis
-Market Shop,Saint Kitts and Nevis
-Saint Paul’s,Saint Kitts and Nevis
-Middle Island,Saint Kitts and Nevis
+Basseterre,Saint Kitts och Nevis
+Fig Tree,Saint Kitts och Nevis
+Market Shop,Saint Kitts och Nevis
+Saint Paul’s,Saint Kitts och Nevis
+Middle Island,Saint Kitts och Nevis
 Djibouti,Djibouti
 'Ali Sabieh,Djibouti
 Ḏânan,Djibouti
@@ -53,23 +53,23 @@ Bo,Sierra Leone
 Kenema,Sierra Leone
 Koidu,Sierra Leone
 Makeni,Sierra Leone
-McMurdo Station,Antarctica
-East Jerusalem,Palestine
-Gaza,Palestine
-Khān Yūnis,Palestine
-Jabālyā,Palestine
-Hebron,Palestine
-Grytviken,South Georgia and the South Sandwich Islands
-Oslo,Norway
-Bergen,Norway
-Trondheim,Norway
-Stavanger,Norway
-Drammen,Norway
-Shanghai,China
-Beijing,China
-Tianjin,China
-Guangzhou,China
-Shenzhen,China
+McMurdo Station,Antarktis
+East Jerusalem,Palestina
+Gaza,Palestina
+Khān Yūnis,Palestina
+Jabālyā,Palestina
+Hebron,Palestina
+Grytviken,Sydgeorgien och Sydsandwichöarna
+Oslo,Norge
+Bergen,Norge
+Trondheim,Norge
+Stavanger,Norge
+Drammen,Norge
+Shanghai,Kina
+Beijing,Kina
+Tianjin,Kina
+Guangzhou,Kina
+Shenzhen,Kina
 Andorra la Vella,Andorra
 les Escaldes,Andorra
 Encamp,Andorra
@@ -81,100 +81,100 @@ Bobo-Dioulasso,Burkina Faso
 Koudougou,Burkina Faso
 Ouahigouya,Burkina Faso
 Banfora,Burkina Faso
-Tallinn,Estonia
-Tartu,Estonia
-Narva,Estonia
-Kohtla-Järve,Estonia
-Pärnu,Estonia
+Tallinn,Estland
+Tartu,Estland
+Narva,Estland
+Kohtla-Järve,Estland
+Pärnu,Estland
 Funafuti,Tuvalu
 Alapi Village,Tuvalu
 Fakaifou Village,Tuvalu
 Savave Village,Tuvalu
 Tanrake Village,Tuvalu
-Amsterdam,Netherlands
-Rotterdam,Netherlands
-The Hague,Netherlands
-Utrecht,Netherlands
-Eindhoven,Netherlands
-Juba,South Sudan
-Winejok,South Sudan
-Malakal,South Sudan
-Wau,South Sudan
-Pajok,South Sudan
-Douala,Cameroon
-Yaoundé,Cameroon
-Garoua,Cameroon
-Kousséri,Cameroon
-Bamenda,Cameroon
-Pyongyang,North Korea
-Hamhŭng,North Korea
-Namp’o,North Korea
-Sunch’ŏn,North Korea
-Hŭngnam,North Korea
+Amsterdam,Nederländerna
+Rotterdam,Nederländerna
+The Hague,Nederländerna
+Utrecht,Nederländerna
+Eindhoven,Nederländerna
+Juba,Sydsudan
+Winejok,Sydsudan
+Malakal,Sydsudan
+Wau,Sydsudan
+Pajok,Sydsudan
+Douala,Kamerun
+Yaoundé,Kamerun
+Garoua,Kamerun
+Kousséri,Kamerun
+Bamenda,Kamerun
+Pyongyang,Nordkorea
+Hamhŭng,Nordkorea
+Namp’o,Nordkorea
+Sunch’ŏn,Nordkorea
+Hŭngnam,Nordkorea
 Manzini,Swaziland
 Mbabane,Swaziland
 Big Bend,Swaziland
 Malkerns,Swaziland
 Nhlangano,Swaziland
-Adamstown,Pitcairn Islands
+Adamstown,Pitcairnöarna
 Saint Helier,Jersey
 Le Hocq,Jersey
-Riga,Latvia
-Daugavpils,Latvia
-Liepāja,Latvia
-Jelgava,Latvia
-Jūrmala,Latvia
+Riga,Lettland
+Daugavpils,Lettland
+Liepāja,Lettland
+Jelgava,Lettland
+Jūrmala,Lettland
 Monte-Carlo,Monaco
 La Condamine,Monaco
 Fontvieille,Monaco
 Moneghetti,Monaco
 Saint-Roman,Monaco
-Dushanbe,Tajikistan
-Khŭjand,Tajikistan
-Kŭlob,Tajikistan
-Qŭrghonteppa,Tajikistan
-Istaravshan,Tajikistan
-Majuro,Marshall Islands
-Ebaye,Marshall Islands
-Wotje,Marshall Islands
-Namdrik,Marshall Islands
-Kili,Marshall Islands
-Bucharest,Romania
-Sector 3,Romania
-Sector 6,Romania
-Sector 2,Romania
-Iaşi,Romania
-Athens,Greece
-Thessaloníki,Greece
-Pátra,Greece
-Piraeus,Greece
-Lárisa,Greece
+Dushanbe,Tadzjikistan
+Khŭjand,Tadzjikistan
+Kŭlob,Tadzjikistan
+Qŭrghonteppa,Tadzjikistan
+Istaravshan,Tadzjikistan
+Majuro,Marshallöarna
+Ebaye,Marshallöarna
+Wotje,Marshallöarna
+Namdrik,Marshallöarna
+Kili,Marshallöarna
+Bucharest,Rumänien
+Sector 3,Rumänien
+Sector 6,Rumänien
+Sector 2,Rumänien
+Iaşi,Rumänien
+Athens,Grekland
+Thessaloníki,Grekland
+Pátra,Grekland
+Piraeus,Grekland
+Lárisa,Grekland
 Kabul,Afghanistan
 Kandahār,Afghanistan
 Mazār-e Sharīf,Afghanistan
 Herāt,Afghanistan
 Jalālābād,Afghanistan
-Tokyo,Japanese
-Yokohama,Japanese
-Osaka,Japanese
-Nagoya,Japanese
-Sapporo,Japanese
-Sarajevo,Bosnia and Herzegovina
-Banja Luka,Bosnia and Herzegovina
-Zenica,Bosnia and Herzegovina
-Tuzla,Bosnia and Herzegovina
-Mostar,Bosnia and Herzegovina
-Mexico City,Mexico
-Iztapalapa,Mexico
-Ecatepec de Morelos,Mexico
-Guadalajara,Mexico
-Puebla,Mexico
+Tokyo,Japan
+Yokohama,Japan
+Osaka,Japan
+Nagoya,Japan
+Sapporo,Japan
+Sarajevo,Bosnien och Hercegovina
+Banja Luka,Bosnien och Hercegovina
+Zenica,Bosnien och Hercegovina
+Tuzla,Bosnien och Hercegovina
+Mostar,Bosnien och Hercegovina
+Mexico City,Mexiko
+Iztapalapa,Mexiko
+Ecatepec de Morelos,Mexiko
+Guadalajara,Mexiko
+Puebla,Mexiko
 Dededo Village,Guam
 Yigo Village,Guam
 Tamuning,Guam
 Tamuning-Tumon-Harmon Village,Guam
 Mangilao Village,Guam
-Road Town,British Virgin Islands
+Road Town,Brittiska Jungfruöarna
 Dar es Salaam,Tanzania
 Mwanza,Tanzania
 Zanzibar,Tanzania
@@ -185,11 +185,11 @@ Port-Gentil,Gabon
 Franceville,Gabon
 Oyem,Gabon
 Moanda,Gabon
-Auckland,New Zealand
-Wellington,New Zealand
-Christchurch,New Zealand
-Manukau City,New Zealand
-Waitakere,New Zealand
+Auckland,Nya Zeeland
+Wellington,Nya Zeeland
+Christchurch,Nya Zeeland
+Manukau City,Nya Zeeland
+Waitakere,Nya Zeeland
 Arijejen,Nauru
 Menen,Nauru
 Baiti,Nauru
@@ -205,11 +205,11 @@ Gulu,Uganda
 Lira,Uganda
 Mbarara,Uganda
 Jinja,Uganda
-Chisinau,Moldova
-Tiraspol,Moldova
-Bălţi,Moldova
-Bender,Moldova
-Rîbniţa,Moldova
+Chisinau,Moldavien
+Tiraspol,Moldavien
+Bălţi,Moldavien
+Bender,Moldavien
+Rîbniţa,Moldavien
 Manama,Bahrain
 Al Muharraq,Bahrain
 Ar Rifā‘,Bahrain
@@ -220,11 +220,11 @@ Saint Sampson,Guernsey
 Castel,Guernsey
 St. Andrew`s,Guernsey
 Saint Saviour,Guernsey
-Nuuk,Greenland
-Sisimiut,Greenland
-Ilulissat,Greenland
-Qaqortoq,Greenland
-Aasiaat,Greenland
+Nuuk,Grönland
+Sisimiut,Grönland
+Ilulissat,Grönland
+Qaqortoq,Grönland
+Aasiaat,Grönland
 Maseru,Lesotho
 Mafeteng,Lesotho
 Leribe,Lesotho
@@ -245,11 +245,11 @@ Maliana,Timor Leste
 Suai,Timor Leste
 Likisá,Timor Leste
 Aileu,Timor Leste
-Rome,Italy
-Milan,Italy
-Naples,Italy
-Turin,Italy
-Palermo,Italy
+Rome,Italien
+Milan,Italien
+Naples,Italien
+Turin,Italien
+Palermo,Italien
 Ho Chi Minh City,Vietnam
 Hanoi,Vietnam
 Da Nang,Vietnam
@@ -260,11 +260,11 @@ Blantyre,Malawi
 Mzuzu,Malawi
 Zomba,Malawi
 Kasungu,Malawi
-Belgrade,Serbia
-Niš,Serbia
-Novi Sad,Serbia
-Zemun,Serbia
-Kragujevac,Serbia
+Belgrade,Serbien
+Niš,Serbien
+Novi Sad,Serbien
+Zemun,Serbien
+Kragujevac,Serbien
 Les Abymes,Guadeloupe
 Baie-Mahault,Guadeloupe
 Le Gosier,Guadeloupe
@@ -280,27 +280,27 @@ Tel Aviv,Israel
 West Jerusalem,Israel
 Haifa,Israel
 Ashdod,Israel
-Paris,France
-Marseille,France
-Lyon,France
-Toulouse,France
-Nice,France
-Saint-Denis,Reunion
-Saint-Paul,Reunion
-Saint-Pierre,Reunion
-Le Tampon,Reunion
-Saint-André,Reunion
+Paris,Frankrike
+Marseille,Frankrike
+Lyon,Frankrike
+Toulouse,Frankrike
+Nice,Frankrike
+Saint-Denis,Réunion
+Saint-Paul,Réunion
+Saint-Pierre,Réunion
+Le Tampon,Réunion
+Saint-André,Réunion
 Saint George,Bermuda
-Mumbai,India
-Delhi,India
-Bengaluru,India
-Kolkata,India
-Chennai,India
-Saint John’s,Antigua and Barbuda
-All Saints,Antigua and Barbuda
-Piggotts,Antigua and Barbuda
-Liberta,Antigua and Barbuda
-Bolands,Antigua and Barbuda
+Mumbai,Indien
+Delhi,Indien
+Bengaluru,Indien
+Kolkata,Indien
+Chennai,Indien
+Saint John’s,Antigua och Barbuda
+All Saints,Antigua och Barbuda
+Piggotts,Antigua och Barbuda
+Liberta,Antigua och Barbuda
+Bolands,Antigua och Barbuda
 Colombo,Sri Lanka
 Dehiwala-Mount Lavinia,Sri Lanka
 Mount Lavinia,Sri Lanka
@@ -311,118 +311,118 @@ Dorp Antriol,Bonaire
 Upper Hell's Gate,Bonaire
 Dorp Rincón,Bonaire
 Dorp Tera Kora,Bonaire
-Amman,Jordan
-Zarqa,Jordan
-Irbid,Jordan
-Russeifa,Jordan
-Wādī as Sīr,Jordan
-Reykjavík,Iceland
-Kópavogur,Iceland
-Hafnarfjörður,Iceland
-Akureyri,Iceland
-Garðabær,Iceland
+Amman,Jordanien
+Zarqa,Jordanien
+Irbid,Jordanien
+Russeifa,Jordanien
+Wādī as Sīr,Jordanien
+Reykjavík,Island
+Kópavogur,Island
+Hafnarfjörður,Island
+Akureyri,Island
+Garðabær,Island
 Bogotá,Colombia
 Cali,Colombia
 Medellín,Colombia
 Barranquilla,Colombia
 Cartagena,Colombia
-Maputo,Mozambique
-Matola,Mozambique
-Beira,Mozambique
-Nampula,Mozambique
-Chimoio,Mozambique
-Skopje,Macedonia
-Bitola,Macedonia
-Kumanovo,Macedonia
-Prilep,Macedonia
-Tetovo,Macedonia
-Flying Fish Cove,Christmas Island
-São Paulo,Brazil
-Rio de Janeiro,Brazil
-Salvador,Brazil
-Fortaleza,Brazil
-Belo Horizonte,Brazil
-Antananarivo,Madagascar
-Toamasina,Madagascar
-Antsirabe,Madagascar
-Fianarantsoa,Madagascar
-Mahajanga,Madagascar
+Maputo,Moçambique
+Matola,Moçambique
+Beira,Moçambique
+Nampula,Moçambique
+Chimoio,Moçambique
+Skopje,Makedonien
+Bitola,Makedonien
+Kumanovo,Makedonien
+Prilep,Makedonien
+Tetovo,Makedonien
+Flying Fish Cove,Julön
+São Paulo,Brasilien
+Rio de Janeiro,Brasilien
+Salvador,Brasilien
+Fortaleza,Brasilien
+Belo Horizonte,Brasilien
+Antananarivo,Madagaskar
+Toamasina,Madagaskar
+Antsirabe,Madagaskar
+Fianarantsoa,Madagaskar
+Mahajanga,Madagaskar
 Muscat,Oman
 Seeb,Oman
 Şalālah,Oman
 Bawshar,Oman
 Sohar,Oman
-São Tomé,São Tomé and Príncipe
-Santo António,São Tomé and Príncipe
-São João dos Angolares,São Tomé and Príncipe
-Almaty,Kazakhstan
-Karagandy,Kazakhstan
-Shymkent,Kazakhstan
-Taraz,Kazakhstan
-Astana,Kazakhstan
-Saint Croix,US Virgin Islands
-Charlotte Amalie,US Virgin Islands
-Cruz Bay,US Virgin Islands
+São Tomé,São Tomé och Príncipe
+Santo António,São Tomé och Príncipe
+São João dos Angolares,São Tomé och Príncipe
+Almaty,Kazakstan
+Karagandy,Kazakstan
+Shymkent,Kazakstan
+Taraz,Kazakstan
+Astana,Kazakstan
+Saint Croix,Amerikanska Jungfruöarna
+Charlotte Amalie,Amerikanska Jungfruöarna
+Cruz Bay,Amerikanska Jungfruöarna
 Bandar Seri Begawan,Brunei
 Kuala Belait,Brunei
 Seria,Brunei
 Tutong,Brunei
 Kapok,Brunei
-London,UK
-Birmingham,UK
-Liverpool,UK
-Nottingham,UK
-Sheffield,UK
-Phnom Penh,Cambodia
-Takeo,Cambodia
-Sihanoukville,Cambodia
-Battambang,Cambodia
-Siem Reap,Cambodia
-Casablanca,Morocco
-Rabat,Morocco
-Fès,Morocco
-Sale,Morocco
-Marrakesh,Morocco
+London,Storbritannien
+Birmingham,Storbritannien
+Liverpool,Storbritannien
+Nottingham,Storbritannien
+Sheffield,Storbritannien
+Phnom Penh,Kambodja
+Takeo,Kambodja
+Sihanoukville,Kambodja
+Battambang,Kambodja
+Siem Reap,Kambodja
+Casablanca,Marocko
+Rabat,Marocko
+Fès,Marocko
+Sale,Marocko
+Marrakesh,Marocko
 Camayenne,Guinea
 Conakry,Guinea
 Nzérékoré,Guinea
 Kindia,Guinea
 Kankan,Guinea
-Aleppo,Syria
-Damascus,Syria
-Homs,Syria
-Ḩamāh,Syria
-Latakia,Syria
+Aleppo,Syrien
+Damascus,Syrien
+Homs,Syrien
+Ḩamāh,Syrien
+Latakia,Syrien
 Serekunda,Gambia
 Brikama,Gambia
 Bakau,Gambia
 Banjul,Gambia
 Farafenni,Gambia
-Brazzaville,Republic of the Congo
-Pointe-Noire,Republic of the Congo
-Dolisie,Republic of the Congo
-Kayes,Republic of the Congo
-Owando,Republic of the Congo
-Tórshavn,Faroe Islands
-Klaksvík,Faroe Islands
-Hoyvík,Faroe Islands
-Argir,Faroe Islands
-Vágur,Faroe Islands
-Addis Ababa,Ethiopia
-Dire Dawa,Ethiopia
-Mek'ele,Ethiopia
-Nazrēt,Ethiopia
-Bahir Dar,Ethiopia
+Brazzaville,Republiken Kongo
+Pointe-Noire,Republiken Kongo
+Dolisie,Republiken Kongo
+Kayes,Republiken Kongo
+Owando,Republiken Kongo
+Tórshavn,Färöarna
+Klaksvík,Färöarna
+Hoyvík,Färöarna
+Argir,Färöarna
+Vágur,Färöarna
+Addis Ababa,Etiopien
+Dire Dawa,Etiopien
+Mek'ele,Etiopien
+Nazrēt,Etiopien
+Bahir Dar,Etiopien
 Mamoudzou,Mayotte
 Koungou,Mayotte
 Dzaoudzi,Mayotte
 Dembeni,Mayotte
 Pamandzi,Mayotte
-Kinshasa,The Democratic Republic of Kongo
-Lubumbashi,The Democratic Republic of Kongo
-Mbuji-Mayi,The Democratic Republic of Kongo
-Kisangani,The Democratic Republic of Kongo
-Masina,The Democratic Republic of Kongo
+Kinshasa,Demokratiska Republiken Kongo
+Lubumbashi,Demokratiska Republiken Kongo
+Mbuji-Mayi,Demokratiska Republiken Kongo
+Kisangani,Demokratiska Republiken Kongo
+Masina,Demokratiska Republiken Kongo
 Birkirkara,Malta
 Qormi,Malta
 Mosta,Malta
@@ -433,13 +433,13 @@ Türkmenabat,Turkmenistan
 Daşoguz,Turkmenistan
 Mary,Turkmenistan
 Balkanabat,Turkmenistan
-Jakarta,Indonesia
-Surabaya,Indonesia
-Medan,Indonesia
-Bandung,Indonesia
-Bekasi,Indonesia
-Mata-Utu,Wallis and Futuna
-Leava,Wallis and Futuna
+Jakarta,Indonesien
+Surabaya,Indonesien
+Medan,Indonesien
+Bandung,Indonesien
+Bekasi,Indonesien
+Mata-Utu,Wallis och Futuna
+Leava,Wallis och Futuna
 Helsinki,Finland
 Espoo,Finland
 Tampere,Finland
@@ -450,11 +450,11 @@ Limón,Costa Rica
 San Francisco,Costa Rica
 Alajuela,Costa Rica
 Liberia,Costa Rica
-Port-aux-Français,French Southern Territories
+Port-aux-Français,Franska södra territorier
 Gustavia,Saint Barthélemy
-Laayoune,Western Sahara
-Dakhla,Western Sahara
-Laayoune Plage,Western Sahara
+Laayoune,Västsahara
+Dakhla,Västsahara
+Laayoune Plage,Västsahara
 Nassau,Bahamas
 Lucaya,Bahamas
 Freeport,Bahamas
@@ -465,49 +465,49 @@ Mombasa,Kenya
 Nakuru,Kenya
 Eldoret,Kenya
 Kisumu,Kenya
-Atafu Village,Tokelau Islands
-Nukunonu,Tokelau Islands
-Fale old settlement,Tokelau Islands
-Luxembourg,Luxembourg
-Esch-sur-Alzette,Luxembourg
-Dudelange,Luxembourg
-Schifflange,Luxembourg
-Bettembourg,Luxembourg
-Sanaa,Yemen
-Al Ḩudaydah,Yemen
-Ta‘izz,Yemen
-Aden,Yemen
-Mukalla,Yemen
+Atafu Village,Tokelauöarna
+Nukunonu,Tokelauöarna
+Fale old settlement,Tokelauöarna
+Luxembourg,Luxemburg
+Esch-sur-Alzette,Luxemburg
+Dudelange,Luxemburg
+Schifflange,Luxemburg
+Bettembourg,Luxemburg
+Sanaa,Jemen
+Al Ḩudaydah,Jemen
+Ta‘izz,Jemen
+Aden,Jemen
+Mukalla,Jemen
 Lima,Peru
 Arequipa,Peru
 Callao,Peru
 Trujillo,Peru
 Chiclayo,Peru
-Paramaribo,Suriname
-Lelydorp,Suriname
-Brokopondo,Suriname
-Nieuw Nickerie,Suriname
-Moengo,Suriname
-Dublin,Ireland
-Cork,Ireland
-Dún Laoghaire,Ireland
-Luimneach,Ireland
-Gaillimh,Ireland
-Baghdad,Iraq
-Basrah,Iraq
-Al Mawşil al Jadīdah,Iraq
-Al Başrah al Qadīmah,Iraq
-Mosul,Iraq
-Ljubljana,Slovenia
-Maribor,Slovenia
-Celje,Slovenia
-Kranj,Slovenia
-Velenje,Slovenia
-Tbilisi,Georgia
-Kutaisi,Georgia
-Batumi,Georgia
-Sokhumi,Georgia
-Zugdidi,Georgia
+Paramaribo,Surinam
+Lelydorp,Surinam
+Brokopondo,Surinam
+Nieuw Nickerie,Surinam
+Moengo,Surinam
+Dublin,Irland
+Cork,Irland
+Dún Laoghaire,Irland
+Luimneach,Irland
+Gaillimh,Irland
+Baghdad,Irak
+Basrah,Irak
+Al Mawşil al Jadīdah,Irak
+Al Başrah al Qadīmah,Irak
+Mosul,Irak
+Ljubljana,Slovenien
+Maribor,Slovenien
+Celje,Slovenien
+Kranj,Slovenien
+Velenje,Slovenien
+Tbilisi,Georgien
+Kutaisi,Georgien
+Batumi,Georgien
+Sokhumi,Georgien
+Zugdidi,Georgien
 Serravalle,San Marino
 Borgo Maggiore,San Marino
 San Marino,San Marino
@@ -528,31 +528,31 @@ Los Angeles,USA
 Chicago,USA
 Brooklyn,USA
 Houston,USA
-Bratislava,Slovakia
-Košice,Slovakia
-Prešov,Slovakia
-Nitra,Slovakia
-Žilina,Slovakia
-Kyiv,Ukraine
-Kharkiv,Ukraine
-Dnipro,Ukraine
-Donetsk,Ukraine
-Odessa,Ukraine
-Baku,Azerbaijan
-Ganja,Azerbaijan
-Sumqayıt,Azerbaijan
-Lankaran,Azerbaijan
-Mingelchaur,Azerbaijan
-Riyadh,Saudi Arabia
-Jeddah,Saudi Arabia
-Mecca,Saudi Arabia
-Medina,Saudi Arabia
-Sulţānah,Saudi Arabia
-Nouméa,New Caledonia
-Mont-Dore,New Caledonia
-Dumbéa,New Caledonia
-Païta,New Caledonia
-Wé,New Caledonia
+Bratislava,Slovakien
+Košice,Slovakien
+Prešov,Slovakien
+Nitra,Slovakien
+Žilina,Slovakien
+Kyiv,Ukraina
+Kharkiv,Ukraina
+Dnipro,Ukraina
+Donetsk,Ukraina
+Odessa,Ukraina
+Baku,Azerbajdzjan
+Ganja,Azerbajdzjan
+Sumqayıt,Azerbajdzjan
+Lankaran,Azerbajdzjan
+Mingelchaur,Azerbajdzjan
+Riyadh,Saudiarabien
+Jeddah,Saudiarabien
+Mecca,Saudiarabien
+Medina,Saudiarabien
+Sulţānah,Saudiarabien
+Nouméa,Nya Kaledonien
+Mont-Dore,Nya Kaledonien
+Dumbéa,Nya Kaledonien
+Païta,Nya Kaledonien
+Wé,Nya Kaledonien
 Castries,Saint Lucia
 Bisee,Saint Lucia
 Vieux Fort,Saint Lucia
@@ -593,71 +593,71 @@ Butare,Rwanda
 Gitarama,Rwanda
 Musanze,Rwanda
 Gisenyi,Rwanda
-Cape Town,South Africa
-Durban,South Africa
-Johannesburg,South Africa
-Soweto,South Africa
-Pretoria,South Africa
+Cape Town,Sydafrika
+Durban,Sydafrika
+Johannesburg,Sydafrika
+Soweto,Sydafrika
+Pretoria,Sydafrika
 Mogadishu,Somalia
 Hargeysa,Somalia
 Berbera,Somalia
 Kismayo,Somalia
 Marka,Somalia
-Zagreb,Croatia
-Split,Croatia
-Rijeka,Croatia
-Osijek,Croatia
-Zadar,Croatia
-Havana,Cuba
-Santiago de Cuba,Cuba
-Camagüey,Cuba
-Holguín,Cuba
-Guantánamo,Cuba
-Tripoli,Libya
-Benghazi,Libya
-Mişrātah,Libya
-Tarhuna,Libya
-Al Khums,Libya
-Vilnius,Lithuania
-Kaunas,Lithuania
-Klaipėda,Lithuania
-Šiauliai,Lithuania
-Panevėžys,Lithuania
-Copenhagen,Denmark
-Århus,Denmark
-Odense,Denmark
-Aalborg,Denmark
-Frederiksberg,Denmark
+Zagreb,Kroatien
+Split,Kroatien
+Rijeka,Kroatien
+Osijek,Kroatien
+Zadar,Kroatien
+Havana,Kuba
+Santiago de Cuba,Kuba
+Camagüey,Kuba
+Holguín,Kuba
+Guantánamo,Kuba
+Tripoli,Libyen
+Benghazi,Libyen
+Mişrātah,Libyen
+Tarhuna,Libyen
+Al Khums,Libyen
+Vilnius,Litauen
+Kaunas,Litauen
+Klaipėda,Litauen
+Šiauliai,Litauen
+Panevėžys,Litauen
+Copenhagen,Danmark
+Århus,Danmark
+Odense,Danmark
+Aalborg,Danmark
+Frederiksberg,Danmark
 Bamako,Mali
 Sikasso,Mali
 Mopti,Mali
 Koutiala,Mali
 Ségou,Mali
-Warsaw,Poland
-Łódź,Poland
-Kraków,Poland
-Wrocław,Poland
-Poznań,Poland
-Tunis,Tunisia
-Sfax,Tunisia
-Sousse,Tunisia
-Kairouan,Tunisia
-Bizerte,Tunisia
-Vienna,Austria
-Graz,Austria
-Linz,Austria
-Favoriten,Austria
-Donaustadt,Austria
-Abidjan,Ivory Coast
-Abobo,Ivory Coast
-Bouaké,Ivory Coast
-Daloa,Ivory Coast
-San-Pédro,Ivory Coast
-Kingstown,Saint Vincent and the Grenadines
-Kingstown Park,Saint Vincent and the Grenadines
-Georgetown,Saint Vincent and the Grenadines
-Byera Village,Saint Vincent and the Grenadines
-Biabou,Saint Vincent and the Grenadines
+Warsaw,Polen
+Łódź,Polen
+Kraków,Polen
+Wrocław,Polen
+Poznań,Polen
+Tunis,Tunisien
+Sfax,Tunisien
+Sousse,Tunisien
+Kairouan,Tunisien
+Bizerte,Tunisien
+Vienna,Österrike
+Graz,Österrike
+Linz,Österrike
+Favoriten,Österrike
+Donaustadt,Österrike
+Abidjan,Elfenbenskusten
+Abobo,Elfenbenskusten
+Bouaké,Elfenbenskusten
+Daloa,Elfenbenskusten
+San-Pédro,Elfenbenskusten
+Kingstown,Saint Vincent och Grenadinerna
+Kingstown Park,Saint Vincent och Grenadinerna
+Georgetown,Saint Vincent och Grenadinerna
+Byera Village,Saint Vincent och Grenadinerna
+Biabou,Saint Vincent och Grenadinerna
 Asunción,Paraguay
 Ciudad del Este,Paraguay
 San Lorenzo,Paraguay
@@ -668,9 +668,9 @@ Bafatá,Guinea-Bissau
 Gabú,Guinea-Bissau
 Bissorã,Guinea-Bissau
 Bolama,Guinea-Bissau
-Cockburn Town,Turks and Caicos Islands
-Saipan,Northern Mariana Islands
-San Jose Village,Northern Mariana Islands
+Cockburn Town,Turks och Caicosöarna
+Saipan,Nordmarianerna
+San Jose Village,Nordmarianerna
 Santiago,Chile
 Puente Alto,Chile
 Antofagasta,Chile
@@ -681,26 +681,26 @@ Pokhara,Nepal
 Pātan,Nepal
 Biratnagar,Nepal
 Birgañj,Nepal
-Pago Pago,American Samoa
-Tāfuna,American Samoa
-Faleniu,American Samoa
-Aūa,American Samoa
-Mapusagafou,American Samoa
-Sydney,Australia
-Melbourne,Australia
-Brisbane,Australia
-Perth,Australia
-Adelaide,Australia
+Pago Pago,Amerikanska Samoa
+Tāfuna,Amerikanska Samoa
+Faleniu,Amerikanska Samoa
+Aūa,Amerikanska Samoa
+Mapusagafou,Amerikanska Samoa
+Sydney,Australien
+Melbourne,Australien
+Brisbane,Australien
+Perth,Australien
+Adelaide,Australien
 Kingston,Jamaica
 New Kingston,Jamaica
 Spanish Town,Jamaica
 Portmore,Jamaica
 Montego Bay,Jamaica
-Faaa,French Polynesia
-Papeete,French Polynesia
-Punaauia,French Polynesia
-Pirae,French Polynesia
-Mahina,French Polynesia
+Faaa,Franska Polynesien
+Papeete,Franska Polynesien
+Punaauia,Franska Polynesien
+Pirae,Franska Polynesien
+Mahina,Franska Polynesien
 Gaborone,Botswana
 Francistown,Botswana
 Molepolole,Botswana
@@ -721,21 +721,21 @@ Asau,Samoa
 Mulifanua,Samoa
 Faleula,Samoa
 Siusega,Samoa
-Chaguanas,Trinidad and Tobago
-Mon Repos,Trinidad and Tobago
-San Fernando,Trinidad and Tobago
-Port of Spain,Trinidad and Tobago
-Rio Claro,Trinidad and Tobago
-Dubai,United Arab Emirates
-Abu Dhabi,United Arab Emirates
-Sharjah,United Arab Emirates
-Al Ain,United Arab Emirates
-Ajman,United Arab Emirates
-Bishkek,Kyrgyzstan
-Osh,Kyrgyzstan
-Jalal-Abad,Kyrgyzstan
-Karakol,Kyrgyzstan
-Tokmok,Kyrgyzstan
+Chaguanas,Trinidad och Tobago
+Mon Repos,Trinidad och Tobago
+San Fernando,Trinidad och Tobago
+Port of Spain,Trinidad och Tobago
+Rio Claro,Trinidad och Tobago
+Dubai,Förenade Arabemiraten
+Abu Dhabi,Förenade Arabemiraten
+Sharjah,Förenade Arabemiraten
+Al Ain,Förenade Arabemiraten
+Ajman,Förenade Arabemiraten
+Bishkek,Kirgizistan
+Osh,Kirgizistan
+Jalal-Abad,Kirgizistan
+Karakol,Kirgizistan
+Tokmok,Kirgizistan
 Longyearbyen,Svalbard
 Olonkinbyen,Svalbard
 Tashkent,Uzbekistan
@@ -743,9 +743,9 @@ Namangan,Uzbekistan
 Samarqand,Uzbekistan
 Andijon,Uzbekistan
 Bukhara,Uzbekistan
-Jamestown,Saint Helena
-Georgetown,Saint Helena
-Edinburgh of the Seven Seas,Saint Helena
+Jamestown,Sankt Helena
+Georgetown,Sankt Helena
+Edinburgh of the Seven Seas,Sankt Helena
 Alofi,Niue
 Vientiane,Laos
 Pakse,Laos
@@ -757,21 +757,21 @@ New Amsterdam,Guyana
 Anna Regina,Guyana
 Bartica,Guyana
 Skeldon,Guyana
-Seoul,South Korea
-Busan,South Korea
-Incheon,South Korea
-Daegu,South Korea
-Daejeon,South Korea
+Seoul,Sydkorea
+Busan,Sydkorea
+Incheon,Sydkorea
+Daegu,Sydkorea
+Daejeon,Sydkorea
 Accra,Ghana
 Kumasi,Ghana
 Tamale,Ghana
 Takoradi,Ghana
 Atsiaman,Ghana
-Tirana,Albania
-Durrës,Albania
-Elbasan,Albania
-Vlorë,Albania
-Shkodër,Albania
+Tirana,Albanien
+Durrës,Albanien
+Elbasan,Albanien
+Vlorë,Albanien
+Shkodër,Albanien
 Yangon,Myanmar
 Mandalay,Myanmar
 Nay Pyi Taw,Myanmar
@@ -782,33 +782,33 @@ Omdurman,Sudan
 Nyala,Sudan
 Port Sudan,Sudan
 Kassala,Sudan
-Vatican City,Vatican City State
-Honiara,Solomon Islands
-Auki,Solomon Islands
-Gizo,Solomon Islands
-Buala,Solomon Islands
-Tulagi,Solomon Islands
-Avarua,Cook Islands
-Toronto,Canada
-Montréal,Canada
-Calgary,Canada
-Ottawa,Canada
-Edmonton,Canada
-Praia,Cape Verde
-Mindelo,Cape Verde
-Santa Maria,Cape Verde
-Cova Figueira,Cape Verde
-Santa Cruz,Cape Verde
+Vatican City,Vatikanstaten
+Honiara,Salomonöarna
+Auki,Salomonöarna
+Gizo,Salomonöarna
+Buala,Salomonöarna
+Tulagi,Salomonöarna
+Avarua,Cooköarna
+Toronto,Kanada
+Montréal,Kanada
+Calgary,Kanada
+Ottawa,Kanada
+Edmonton,Kanada
+Praia,Kap Verde
+Mindelo,Kap Verde
+Santa Maria,Kap Verde
+Cova Figueira,Kap Verde
+Santa Cruz,Kap Verde
 Podgorica,Montenegro
 Nikšić,Montenegro
 Herceg-Novi,Montenegro
 Pljevlja,Montenegro
 Budva,Montenegro
-Nicosia,Cyprus
-Limassol,Cyprus
-Larnaca,Cyprus
-Famagusta,Cyprus
-Paphos,Cyprus
+Nicosia,Cypern
+Limassol,Cypern
+Larnaca,Cypern
+Famagusta,Cypern
+Paphos,Cypern
 Taipei,Taiwan
 Kaohsiung,Taiwan
 Taichung,Taiwan
@@ -819,26 +819,26 @@ Ar Rayyān,Qatar
 Umm Şalāl Muḩammad,Qatar
 Al Wakrah,Qatar
 Al Khawr,Qatar
-Prague,Czech Republic
-Brno,Czech Republic
-Ostrava,Czech Republic
-Pilsen,Czech Republic
-Olomouc,Czech Republic
-Minsk,Belarus
-Gomel,Belarus
-Mahilyow,Belarus
-Vitebsk,Belarus
-Hrodna,Belarus
-George Town,Cayman Islands
-West Bay,Cayman Islands
-Bodden Town,Cayman Islands
-East End,Cayman Islands
-North Side,Cayman Islands
-Moutsamoudou,Comoros
-Fomboni,Comoros
-Domoni,Comoros
-Tsimbeo,Comoros
-Adda-Douéni,Comoros
+Prague,Tjeckien
+Brno,Tjeckien
+Ostrava,Tjeckien
+Pilsen,Tjeckien
+Olomouc,Tjeckien
+Minsk,Vitryssland
+Gomel,Vitryssland
+Mahilyow,Vitryssland
+Vitebsk,Vitryssland
+Hrodna,Vitryssland
+George Town,Caymanöarna
+West Bay,Caymanöarna
+Bodden Town,Caymanöarna
+East End,Caymanöarna
+North Side,Caymanöarna
+Moutsamoudou,Komorerna
+Fomboni,Komorerna
+Domoni,Komorerna
+Tsimbeo,Komorerna
+Adda-Douéni,Komorerna
 Al Aḩmadī,Kuwait
 Ḩawallī,Kuwait
 As Sālimīyah,Kuwait
@@ -857,27 +857,27 @@ Neiafu,Tonga
 Haveluloto,Tonga
 Vaini,Tonga
 Pangai,Tonga
-Weno,Micronesia
-Tofol,Micronesia
-Colonia,Micronesia
-Kolonia,Micronesia
-Kolonia Town,Micronesia
+Weno,Mikronesien
+Tofol,Mikronesien
+Colonia,Mikronesien
+Kolonia,Mikronesien
+Kolonia Town,Mikronesien
 Bangkok,Thailand
 Samut Prakan,Thailand
 Mueang Nonthaburi,Thailand
 Udon Thani,Thailand
 Chon Buri,Thailand
-Beirut,Lebanon
-Ra’s Bayrūt,Lebanon
-Tripoli,Lebanon
-Sidon,Lebanon
-Tyre,Lebanon
-West Island,Coconut Islands
-Madrid,Spain
-Barcelona,Spain
-Valencia,Spain
-Sevilla,Spain
-Zaragoza,Spain
+Beirut,Libanon
+Ra’s Bayrūt,Libanon
+Tripoli,Libanon
+Sidon,Libanon
+Tyre,Libanon
+West Island,Kokosöarna
+Madrid,Spanien
+Barcelona,Spanien
+Valencia,Spanien
+Sevilla,Spanien
+Zaragoza,Spanien
 Schaan,Liechtenstein
 Vaduz,Liechtenstein
 Triesen,Liechtenstein
@@ -888,36 +888,36 @@ Jomala,Åland Islands
 Eckerö,Åland Islands
 Föglö,Åland Islands
 Brändö,Åland Islands
-Moscow,Russia
-Saint Petersburg,Russia
-Novosibirsk,Russia
-Yekaterinburg,Russia
-Nizhniy Novgorod,Russia
+Moscow,Ryssland
+Saint Petersburg,Ryssland
+Novosibirsk,Ryssland
+Yekaterinburg,Ryssland
+Nizhniy Novgorod,Ryssland
 Thimphu,Bhutan
 Punākha,Bhutan
 Tsirang,Bhutan
 Phuntsholing,Bhutan
 Pemagatshel,Bhutan
-Male,Maldives
-Fuvahmulah,Maldives
-Hithadhoo,Maldives
-Kulhudhuffushi,Maldives
-Thinadhoo,Maldives
+Male,Maldiverna
+Fuvahmulah,Maldiverna
+Hithadhoo,Maldiverna
+Kulhudhuffushi,Maldiverna
+Thinadhoo,Maldiverna
 Lusaka,Zambia
 Kitwe,Zambia
 Ndola,Zambia
 Kabwe,Zambia
 Chingola,Zambia
-Nouakchott,Mauritania
-Nouadhibou,Mauritania
-Néma,Mauritania
-Kaédi,Mauritania
-Kiffa,Mauritania
-Quezon City,Philippines
-Manila,Philippines
-Caloocan City,Philippines
-Budta,Philippines
-Davao,Philippines
+Nouakchott,Mauretanien
+Nouadhibou,Mauretanien
+Néma,Mauretanien
+Kaédi,Mauretanien
+Kiffa,Mauretanien
+Quezon City,Filippinerna
+Manila,Filippinerna
+Caloocan City,Filippinerna
+Budta,Filippinerna
+Davao,Filippinerna
 Luanda,Angola
 N’dalatando,Angola
 Huambo,Angola
@@ -939,11 +939,11 @@ Norsup,Vanuatu
 Port-Olry,Vanuatu
 Isangel,Vanuatu
 Marigot,Saint Martin
-Ulan Bator,Mongolia
-Erdenet,Mongolia
-Darhan,Mongolia
-Khovd,Mongolia
-Ölgii,Mongolia
+Ulan Bator,Mongoliet
+Erdenet,Mongoliet
+Darhan,Mongoliet
+Khovd,Mongoliet
+Ölgii,Mongoliet
 Managua,Nicaragua
 León,Nicaragua
 Masaya,Nicaragua
@@ -963,21 +963,21 @@ Córdoba,Argentina
 Rosario,Argentina
 Mendoza,Argentina
 San Miguel de Tucumán,Argentina
-Budapest,Hungary
-Debrecen,Hungary
-Miskolc,Hungary
-Szeged,Hungary
-Pécs,Hungary
-Algiers,Algeria
-Boumerdas,Algeria
-Oran,Algeria
-Tébessa,Algeria
-Constantine,Algeria
-Bata,Equatorial Guinea
-Malabo,Equatorial Guinea
-Ebebiyin,Equatorial Guinea
-Aconibe,Equatorial Guinea
-Añisoc,Equatorial Guinea
+Budapest,Ungern
+Debrecen,Ungern
+Miskolc,Ungern
+Szeged,Ungern
+Pécs,Ungern
+Algiers,Algeriet
+Boumerdas,Algeriet
+Oran,Algeriet
+Tébessa,Algeriet
+Constantine,Algeriet
+Bata,Ekvatorialguinea
+Malabo,Ekvatorialguinea
+Ebebiyin,Ekvatorialguinea
+Aconibe,Ekvatorialguinea
+Añisoc,Ekvatorialguinea
 Caracas,Venezuela
 Maracaibo,Venezuela
 Maracay,Venezuela
@@ -1005,26 +1005,26 @@ Zinder,Niger
 Maradi,Niger
 Agadez,Niger
 Alaghsas,Niger
-Cayenne,French Guiana
-Matoury,French Guiana
-Saint-Laurent-du-Maroni,French Guiana
-Kourou,French Guiana
-Rémire-Montjoly,French Guiana
+Cayenne,Franska Guyana
+Matoury,Franska Guyana
+Saint-Laurent-du-Maroni,Franska Guyana
+Kourou,Franska Guyana
+Rémire-Montjoly,Franska Guyana
 Kota Bharu,Malaysia
 Kuala Lumpur,Malaysia
 Klang,Malaysia
 Kampung Baru Subang,Malaysia
 Johor Bahru,Malaysia
-Sofia,Bulgaria
-Plovdiv,Bulgaria
-Varna,Bulgaria
-Burgas,Bulgaria
-Ruse,Bulgaria
-Cairo,Egypt
-Alexandria,Egypt
-Giza,Egypt
-Port Said,Egypt
-Suez,Egypt
+Sofia,Bulgarien
+Plovdiv,Bulgarien
+Varna,Bulgarien
+Burgas,Bulgarien
+Ruse,Bulgarien
+Cairo,Egypten
+Alexandria,Egypten
+Giza,Egypten
+Port Said,Egypten
+Suez,Egypten
 Santa Cruz de la Sierra,Bolivia
 Cochabamba,Bolivia
 La Paz,Bolivia
@@ -1040,26 +1040,26 @@ San Ignacio,Belize
 Orange Walk,Belize
 Belmopan,Belize
 Dangriga,Belize
-Anse Boileau,Seychelles
-Bel Ombre,Seychelles
-Beau Vallon,Seychelles
-Cascade,Seychelles
-Anse Royale,Seychelles
-Brussels,Belgium
-Antwerpen,Belgium
-Gent,Belgium
-Charleroi,Belgium
-Liège,Belgium
+Anse Boileau,Seychellerna
+Bel Ombre,Seychellerna
+Beau Vallon,Seychellerna
+Cascade,Seychellerna
+Anse Royale,Seychellerna
+Brussels,Belgien
+Antwerpen,Belgien
+Gent,Belgien
+Charleroi,Belgien
+Liège,Belgien
 Port-au-Prince,Haiti
 Carrefour,Haiti
 Delmas 73,Haiti
 Pétionville,Haiti
 Port-de-Paix,Haiti
-Yerevan,Armenia
-Gyumri,Armenia
-Vanadzor,Armenia
-Vagharshapat,Armenia
-Hrazdan,Armenia
+Yerevan,Armenien
+Gyumri,Armenien
+Vanadzor,Armenien
+Vagharshapat,Armenien
+Hrazdan,Armenien
 Guatemala City,Guatemala
 Mixco,Guatemala
 Villa Nueva,Guatemala
@@ -1100,13 +1100,13 @@ San Pedro Sula,Honduras
 Choloma,Honduras
 La Ceiba,Honduras
 El Progreso,Honduras
-Port Moresby,Papua New Guinea
-Lae,Papua New Guinea
-Arawa,Papua New Guinea
-Mount Hagen,Papua New Guinea
-Popondetta,Papua New Guinea
-Istanbul,Turkey
-Ankara,Turkey
-İzmir,Turkey
-Bursa,Turkey
-Adana,Turkey
+Port Moresby,Papua Nya Guinea
+Lae,Papua Nya Guinea
+Arawa,Papua Nya Guinea
+Mount Hagen,Papua Nya Guinea
+Popondetta,Papua Nya Guinea
+Istanbul,Turkiet
+Ankara,Turkiet
+İzmir,Turkiet
+Bursa,Turkiet
+Adana,Turkiet

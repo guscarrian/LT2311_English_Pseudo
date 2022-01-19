@@ -1,4 +1,5 @@
 ,Cities,Countries
+0,El Tarter,Andorra
 1,Sant Julià de Lòria,Andorra
 2,Pas de la Casa,Andorra
 3,Ordino,Andorra
@@ -7797,14 +7798,14 @@
 7796,San Julian,Bolivia
 7797,Puearto Pailas,Bolivia
 7798,San Borja,Bolivia
-7799,Upper Hell's Gate,Bonaire
- Saint Eustatius and Saba7800,The Bottom,Bonaire
- Saint Eustatius and Saba7801,Oranjestad,Bonaire
- Saint Eustatius and Saba7802,Kralendijk,Bonaire
- Saint Eustatius and Saba7803,Dorp Tera Kora,Bonaire
- Saint Eustatius and Saba7804,Dorp Rincón,Bonaire
- Saint Eustatius and Saba7805,Dorp Antriol,Bonaire
- Saint Eustatius and Saba7806,Vitorino Freire,Brazil
+7799,Upper Hell's Gate,Bonaire- Saint Eustatius and Saba
+7800,The Bottom,Bonaire- Saint Eustatius and Saba
+7801,Oranjestad,Bonaire- Saint Eustatius and Saba
+7802,Kralendijk,Bonaire- Saint Eustatius and Saba
+7803,Dorp Tera Kora,Bonaire- Saint Eustatius and Saba
+7804,Dorp Rincón,Bonaire- Saint Eustatius and Saba
+7805,Dorp Antriol,Bonaire- Saint Eustatius and Saba
+7806,Vitorino Freire,Brazil
 7807,Vitória do Mearim,Brazil
 7808,Vitória de Santo Antão,Brazil
 7809,Viseu,Brazil
@@ -12348,8 +12349,8 @@
 12347,Binzikon,Switzerland
 12348,Hadlikon,Switzerland
 12349,Rüti / Westlicher Dorfteil,Switzerland
-12350,Rüti / Dorfzentrum, Südl. Teil
-Switzerland12351,Rüti / Oberdorf,Switzerland
+12350,Rüti / Dorfzentrum- Südl. Teil,Switzerland
+12351,Rüti / Oberdorf,Switzerland
 12352,Wetzikon / Robenhausen,Switzerland
 12353,Wetzikon / Kempten,Switzerland
 12354,Adliswil / Adliswil (Stadtkern),Switzerland
@@ -12868,8 +12869,8 @@ Switzerland12351,Rüti / Oberdorf,Switzerland
 12867,Las Animas,Chile
 12868,La Pintana,Chile
 12869,Lo Prado,Chile
-12870,Villa Presidente Frei, Ñuñoa
- Santiago ChileChile12871,Vallenar,Chile
+12870,Villa Presidente Frei- Ñuñoa- Santiago- Chile,Chile
+12871,Vallenar,Chile
 12872,Yoko,Cameroon
 12873,Yokadouma,Cameroon
 12874,Yaoundé,Cameroon
@@ -27986,8 +27987,8 @@ Switzerland12351,Rüti / Oberdorf,Switzerland
 27985,Xàtiva,Spain
 27986,Jaraicejo,Spain
 27987,Jarafuel,Spain
-27988,Xeraco,Jaraco
-Spain27989,Jamilena,Spain
+27988,Xeraco - Jaraco,Spain
+27989,Jamilena,Spain
 27990,Jalón,Spain
 27991,Jalance,Spain
 27992,Jaén,Spain
@@ -31591,8 +31592,8 @@ Spain27989,Jamilena,Spain
 31590,Larraga,Spain
 31591,La Roca del Vallès,Spain
 31592,La Robla,Spain
-31593,Sant Pere, Santa Caterina i La Ribera
-Spain31594,Laredo,Spain
+31593,Sant Pere- Santa Caterina i La Ribera,Spain
+31594,Laredo,Spain
 31595,Lardero,Spain
 31596,Laracha,Spain
 31597,Lapuebla de Labarca,Spain
@@ -33853,8 +33854,8 @@ Spain31594,Laredo,Spain
 33852,Tiétar,Spain
 33853,Montbau,Spain
 33854,Sant Genís dels Agudells,Spain
-33855,Vallvidrera, el Tibidabo i les Planes
-Spain33856,la Marina del Prat Vermell,Spain
+33855,Vallvidrera- el Tibidabo i les Planes,Spain
+33856,la Marina del Prat Vermell,Spain
 33857,Sarrià,Spain
 33858,l'Antiga Esquerra de l'Eixample,Spain
 33859,el Baix Guinardó,Spain
@@ -43322,8 +43323,8 @@ Spain33856,la Marina del Prat Vermell,Spain
 43321,Marseille Roucas-Blanc,France
 43322,Marseille Vauban,France
 43323,Marseille Prefecture,France
-43324,Rd pt des Chataigniers, Rte de Milizac
- Guilers Finistère FranceFrance43325,Belsunce,France
+43324,Rd pt des Chataigniers- Rte de Milizac- Guilers- Finistère- France,France
+43325,Belsunce,France
 43326,Le Chapitre,France
 43327,Thiers,France
 43328,Saint-Charles,France
@@ -49628,8 +49629,8 @@ Spain33856,la Marina del Prat Vermell,Spain
 49627,Santa Rosa de Aguán,Honduras
 49628,Santa Rita,Honduras
 49629,Santa Rita,Honduras
-49630,Santa Rita, Copan
-Honduras49631,Santa María del Real,Honduras
+49630,Santa Rita- Copan,Honduras
+49631,Santa María del Real,Honduras
 49632,Santa Lucía,Honduras
 49633,Santa Lucía,Honduras
 49634,Santa Elena,Honduras
@@ -49784,8 +49785,8 @@ Honduras49631,Santa María del Real,Honduras
 49783,La Unión,Honduras
 49784,La Trinidad,Honduras
 49785,Las Vegas,Honduras
-49786,Las Vegas, Santa Barbara
-Honduras49787,Las Trojes,Honduras
+49786,Las Vegas- Santa Barbara,Honduras
+49787,Las Trojes,Honduras
 49788,Las Tejeras,Honduras
 49789,Las Lajas,Honduras
 49790,San José de Las Conchas,Honduras
@@ -52471,8 +52472,8 @@ Honduras49787,Las Trojes,Honduras
 52470,Lamongan,Indonesia
 52471,Laiwui,Indonesia
 52472,Lais,Indonesia
-52473,Laikit, Laikit II (Dimembe)
-Indonesia52474,Lahat,Indonesia
+52473,Laikit- Laikit II (Dimembe),Indonesia
+52474,Lahat,Indonesia
 52475,Labuhanmaringgai,Indonesia
 52476,Labuan Bajo,Indonesia
 52477,Labuan,Indonesia
@@ -57569,16 +57570,16 @@ Indonesia52474,Lahat,Indonesia
 57568,Nangilickondan,India
 57569,Artist Village,India
 57570,Ramagundam,India
-57571,Govindapuram,Chilakaluripet
-GunturIndia57572,Cherpulassery,India
+57571,Govindapuram;Chilakaluripet;Guntur,India
+57572,Cherpulassery,India
 57573,Biswanath Chariali,India
 57574,Kagaznāgār,India
 57575,Kirandul,India
 57576,Dayapar,India
 57577,Paikpara,India
 57578,Thoothukudi,India
-57579,Kalimpong, Крукети
-India57580,Shiraguppi,India
+57579,Kalimpong- Крукети,India
+57580,Shiraguppi,India
 57581,Gadag-Betageri,India
 57582,Bishnupur,India
 57583,V.S.K.Valasai (Dindigul-Dist.),India
@@ -81743,8 +81744,8 @@ India57580,Shiraguppi,India
 81742,Parit Buntar,Malaysia
 81743,Tasek Glugor,Malaysia
 81744,George Town,Malaysia
-81745,Kampung Bukit Tinggi, Bentong
-Malaysia81746,Serendah,Malaysia
+81745,Kampung Bukit Tinggi- Bentong,Malaysia
+81746,Serendah,Malaysia
 81747,Rawang,Malaysia
 81748,Petaling Jaya,Malaysia
 81749,Kuala Lumpur,Malaysia
@@ -81858,51 +81859,51 @@ Malaysia81746,Serendah,Malaysia
 81857,Beira,Mozambique
 81858,António Enes,Mozambique
 81859,Mutuáli,Mozambique
-81860,Katima Mulilo,Namibia
-81861,Bagani,Namibia
-81862,Windhoek,Namibia
-81863,Warmbad,Namibia
-81864,Usakos,Namibia
-81865,Tsumeb,Namibia
-81866,Tses,Namibia
-81867,Swakopmund,Namibia
-81868,Rundu,Namibia
-81869,Rehoboth,Namibia
-81870,Outjo,Namibia
-81871,Otjiwarongo,Namibia
-81872,Otjimbingwe,Namibia
-81873,Otavi,Namibia
-81874,Oshikango,Namibia
-81875,Oshakati,Namibia
-81876,Oranjemund,Namibia
-81877,Opuwo,Namibia
-81878,Ongwediva,Namibia
-81879,Ongandjera,Namibia
-81880,Ondangwa,Namibia
-81881,Omuthiya,Namibia
-81882,Omaruru,Namibia
-81883,Okakarara,Namibia
-81884,Okahao,Namibia
-81885,Okahandja,Namibia
-81886,Nkurenkuru,Namibia
-81887,Mariental,Namibia
-81888,Maltahöhe,Namibia
-81889,Lüderitz,Namibia
-81890,Khorixas,Namibia
-81891,Keetmanshoop,Namibia
-81892,Katutura,Namibia
-81893,Karibib,Namibia
-81894,Karasburg,Namibia
-81895,Hoachanas,Namibia
-81896,Hentiesbaai,Namibia
-81897,Grootfontein,Namibia
-81898,Gobabis,Namibia
-81899,Eenhana,Namibia
-81900,Bethanie,Namibia
-81901,Aranos,Namibia
-81902,Arandis,Namibia
-81903,Walvis Bay,Namibia
-81904,Outapi,Namibia
+81860,Katima Mulilo,
+81861,Bagani,
+81862,Windhoek,
+81863,Warmbad,
+81864,Usakos,
+81865,Tsumeb,
+81866,Tses,
+81867,Swakopmund,
+81868,Rundu,
+81869,Rehoboth,
+81870,Outjo,
+81871,Otjiwarongo,
+81872,Otjimbingwe,
+81873,Otavi,
+81874,Oshikango,
+81875,Oshakati,
+81876,Oranjemund,
+81877,Opuwo,
+81878,Ongwediva,
+81879,Ongandjera,
+81880,Ondangwa,
+81881,Omuthiya,
+81882,Omaruru,
+81883,Okakarara,
+81884,Okahao,
+81885,Okahandja,
+81886,Nkurenkuru,
+81887,Mariental,
+81888,Maltahöhe,
+81889,Lüderitz,
+81890,Khorixas,
+81891,Keetmanshoop,
+81892,Katutura,
+81893,Karibib,
+81894,Karasburg,
+81895,Hoachanas,
+81896,Hentiesbaai,
+81897,Grootfontein,
+81898,Gobabis,
+81899,Eenhana,
+81900,Bethanie,
+81901,Aranos,
+81902,Arandis,
+81903,Walvis Bay,
+81904,Outapi,
 81905,Yaté-Barrage,New Caledonia
 81906,Wé,New Caledonia
 81907,Wala,New Caledonia
@@ -87436,8 +87437,8 @@ Malaysia81746,Serendah,Malaysia
 87435,Tinoto,Philippines
 87436,Tinogboc,Philippines
 87437,Tiniguiban,Philippines
-87438,Brgy. Tinigao, Kalibo
-Philippines87439,Tingloy,Philippines
+87438,Brgy. Tinigao- Kalibo,Philippines
+87439,Tingloy,Philippines
 87440,Tinglayan,Philippines
 87441,Tindog,Philippines
 87442,Tinawagan,Philippines
@@ -88207,8 +88208,8 @@ Philippines87439,Tingloy,Philippines
 88206,San Fernando,Philippines
 88207,San Felipe,Philippines
 88208,San Felipe Old,Philippines
-88209,Poblacion, San Felipe
-Philippines88210,San Felipe,Philippines
+88209,Poblacion- San Felipe,Philippines
+88210,San Felipe,Philippines
 88211,San Fabian,Philippines
 88212,San Fabian,Philippines
 88213,San Eugenio,Philippines
@@ -88905,8 +88906,8 @@ Philippines88210,San Felipe,Philippines
 88904,Nalus,Philippines
 88905,Nalundan,Philippines
 88906,Nalsian Norte,Philippines
-88907,Brgy. Nalook, kalibo
-Philippines88908,Naisud,Philippines
+88907,Brgy. Nalook- kalibo,Philippines
+88908,Naisud,Philippines
 88909,Nailong,Philippines
 88910,Naili,Philippines
 88911,Naic,Philippines
@@ -89332,8 +89333,8 @@ Philippines88908,Naisud,Philippines
 89331,Magatos,Philippines
 89332,Magarao,Philippines
 89333,Magapit,Philippines
-89334,Magapit, Aguiguican
-Philippines89335,Maganoy,Philippines
+89334,Magapit- Aguiguican,Philippines
+89335,Maganoy,Philippines
 89336,Magallon Cadre,Philippines
 89337,Magallanes,Philippines
 89338,Magallanes,Philippines
@@ -89387,8 +89388,8 @@ Philippines89335,Maganoy,Philippines
 89386,Mabini,Philippines
 89387,Mabinay,Philippines
 89388,Mabilog,Philippines
-89389,Brgy. Mabilo, New Washington
-Philippines89390,Mabilbila Sur,Philippines
+89389,Brgy. Mabilo- New Washington,Philippines
+89390,Mabilbila Sur,Philippines
 89391,Mabilao,Philippines
 89392,Mabilang,Philippines
 89393,Mabayo,Philippines
@@ -89983,8 +89984,8 @@ Philippines89390,Mabilbila Sur,Philippines
 89982,Himaao,Philippines
 89983,Hilotongan,Philippines
 89984,Hilongos,Philippines
-89985,Hiju, Maco
-Philippines89986,Hibaiyo,Philippines
+89985,Hiju- Maco,Philippines
+89986,Hibaiyo,Philippines
 89987,Herrera,Philippines
 89988,Hernani,Philippines
 89989,Hermosa,Philippines
@@ -90036,8 +90037,8 @@ Philippines89986,Hibaiyo,Philippines
 90035,Guindarohan,Philippines
 90036,Guindapunan,Philippines
 90037,Guinoaliuan,Philippines
-90038,Guinayangan, Fourth District of Quezon
-Philippines90039,Guinabsan,Philippines
+90038,Guinayangan- Fourth District of Quezon,Philippines
+90039,Guinabsan,Philippines
 90040,Guinacotan,Philippines
 90041,Guimbal,Philippines
 90042,Guimba,Philippines
@@ -90263,8 +90264,8 @@ Philippines90039,Guinabsan,Philippines
 90262,Daliciasao,Philippines
 90263,Del Gallego,Philippines
 90264,Del Carmen,Philippines
-90265,Del Carmen, Surigao del Norte
-Philippines90266,De la Paz,Philippines
+90265,Del Carmen- Surigao del Norte,Philippines
+90266,De la Paz,Philippines
 90267,Daykitin,Philippines
 90268,Dayapan,Philippines
 90269,Dayap,Philippines
@@ -90755,8 +90756,8 @@ Philippines90266,De la Paz,Philippines
 90754,Butazon,Philippines
 90755,Butag,Philippines
 90756,Busuanga,Philippines
-90757,Brgy. New Buswang, Kalibo
-Philippines90758,Bustos,Philippines
+90757,Brgy. New Buswang- Kalibo,Philippines
+90758,Bustos,Philippines
 90759,Busing,Philippines
 90760,Busilak,Philippines
 90761,Busdi,Philippines
@@ -90794,8 +90795,8 @@ Philippines90758,Bustos,Philippines
 90793,Buawan,Philippines
 90794,Bunawan,Philippines
 90795,Bumbaran,Philippines
-90796,Brgy. Bulwang, Numancia
-Philippines90797,Bulusan,Philippines
+90796,Brgy. Bulwang- Numancia,Philippines
+90797,Bulusan,Philippines
 90798,Buluangan,Philippines
 90799,Buluang,Philippines
 90800,Buluang,Philippines
@@ -91271,8 +91272,8 @@ Philippines90797,Bulusan,Philippines
 91270,Bakung,Philippines
 91271,Bakun,Philippines
 91272,Bachauan,Philippines
-91273,Brgy. Bachaw Norte, Kalibo
-Philippines91274,Baka,Philippines
+91273,Brgy. Bachaw Norte- Kalibo,Philippines
+91274,Baka,Philippines
 91275,Bais,Philippines
 91276,Bairan,Philippines
 91277,Bailan,Philippines
@@ -106143,8 +106144,8 @@ Philippines91274,Baka,Philippines
 106142,Byumba,Rwanda
 106143,Butare,Rwanda
 106144,Nyanza,Rwanda
-106145,Eglise Catholique, Centrale GIKO
-Rwanda106146,Yanbu,Saudi Arabia
+106145,Eglise Catholique- Centrale GIKO,Rwanda
+106146,Yanbu,Saudi Arabia
 106147,Unaizah,Saudi Arabia
 106148,Umm Lajj,Saudi Arabia
 106149,Umm as Sāhik,Saudi Arabia
@@ -106763,7 +106764,7 @@ Rwanda106146,Yanbu,Saudi Arabia
 107581,Hybe,Slovakia
 107582,Hurbanovo,Slovakia
 107583,Hrochoť,Slovakia
-Slovakia107584,Hriňová,Slovakia
+107584,Hriňová,Slovakia
 107585,Holíč,Slovakia
 107586,Hlohovec,Slovakia
 107587,Handlová,Slovakia
@@ -113239,8 +113240,8 @@ Slovakia107584,Hriňová,Slovakia
 114057,Bloomingdale,USA
 114058,Chevy Chase,USA
 114059,Shaw,USA
-114060,Washington, D.C.
-USA114061,Bear,USA
+114060,Washington- D.C.,USA
+114061,Bear,USA
 114062,Bellefonte,USA
 114063,Bethany Beach,USA
 114064,Blades,USA
@@ -121752,8 +121753,8 @@ USA114061,Bear,USA
 122570,Springfield,USA
 122571,Saint Clair,USA
 122572,Saint Clair Shores,USA
-122573,Stambaugh, Iron River
-USA122574,Standish,USA
+122573,Stambaugh- Iron River,USA
+122574,Standish,USA
 122575,Stanton,USA
 122576,Sterling Heights,USA
 122577,Stevensville,USA
@@ -129400,8 +129401,8 @@ USA122574,Standish,USA
 130218,St. Johns,USA
 130219,Stonecrest,USA
 130220,Union City,USA
-130221,New Century, KS
-USA130222,Encanto,USA
+130221,New Century- KS,USA
+130222,Encanto,USA
 130223,Central City,USA
 130224,Young,Uruguay
 130225,Villa Sara,Uruguay
@@ -131112,8 +131113,8 @@ USA130222,Encanto,USA
 131930,Saḩḩab,Yemen
 131931,Majz,Yemen
 131932,AL-khashā upper,Yemen
-131933,Al-Medy Village, قرية المدي
-Yemen131934,Village of ALAMRAH,Yemen
+131933,Al-Medy Village- قرية المدي,Yemen
+131934,Village of ALAMRAH,Yemen
 131935,Jadder Cemetery,Yemen
 131936,Pamandzi,Mayotte
 131937,Mamoudzou,Mayotte
@@ -131603,3 +131604,321 @@ Yemen131934,Village of ALAMRAH,Yemen
 132421,Banket,Zimbabwe
 132422,Epworth,Zimbabwe
 132423,Chitungwiza,Zimbabwe
+132424,Alfta,Sweden
+132425,Alingsås,Sweden
+132426,Alvesta,Sweden
+132427,Aneby,Sweden
+132428,Arboga,Sweden
+132429,Arjeplog,Sweden
+132430,Arlöv,Sweden
+132431,Arvidsjaur,Sweden
+132432,Arvika,Sweden
+132433,Askersund,Sweden
+132434,Avesta,Sweden
+132435,Bengtsfors,Sweden
+132436,Bergsjö,Sweden
+132437,Bjuv,Sweden
+132438,Boden,Sweden
+132439,Boliden,Sweden
+132440,Bollebygd,Sweden
+132441,Bollnäs,Sweden
+132442,Borgholm,Sweden
+132443,Borlänge,Sweden
+132444,Borås,Sweden
+132445,Boxholm,Sweden
+132446,Bredbyn,Sweden
+132447,Broby,Sweden
+132448,Bromölla,Sweden
+132449,Bräcke,Sweden
+132450,Burträsk,Sweden
+132451,Byske,Sweden
+132452,Bålsta,Sweden
+132453,Båstad,Sweden
+132454,Charlottenberg,Sweden
+132455,Degerfors,Sweden
+132456,Djursholm,Sweden
+132457,Dorotea,Sweden
+132458,Ed,Sweden
+132459,Edsbyn,Sweden
+132460,Ekerö,Sweden
+132461,Ekshärad,Sweden
+132462,Eksjö,Sweden
+132463,Emmaboda,Sweden
+132464,Enköping,Sweden
+132465,Eskilstuna,Sweden
+132466,Eslöv,Sweden
+132467,Fagersta,Sweden
+132468,Falkenberg,Sweden
+132469,Falköping,Sweden
+132470,Falun,Sweden
+132471,Filipstad,Sweden
+132472,Finspång,Sweden
+132473,Fjugesta,Sweden
+132474,Flen,Sweden
+132475,Forshaga,Sweden
+132476,Färgelanda,Sweden
+132477,Färjestaden,Sweden
+132478,Gagnef,Sweden
+132479,Garphyttan,Sweden
+132480,Gislaved,Sweden
+132481,Gnesta,Sweden
+132482,Gnosjö,Sweden
+132483,Grebbestad,Sweden
+132484,Grums,Sweden
+132485,Gränna,Sweden
+132486,Grästorp,Sweden
+132487,Gullspång,Sweden
+132488,Gustavsberg,Sweden
+132489,Gällivare,Sweden
+132490,Gävle,Sweden
+132491,Göteborg,Sweden
+132492,Götene,Sweden
+132493,Habo,Sweden
+132494,Hagfors,Sweden
+132495,Hallsberg,Sweden
+132496,Hallstahammar,Sweden
+132497,Halmstad,Sweden
+132498,Hammarstrand,Sweden
+132499,Handen,Sweden
+132500,Haparanda,Sweden
+132501,Heby,Sweden
+132502,Hedemora,Sweden
+132503,Helsingborg,Sweden
+132504,Hemse,Sweden
+132505,Henån,Sweden
+132506,Herrljunga,Sweden
+132507,Hjo,Sweden
+132508,Hofors,Sweden
+132509,Holmsund,Sweden
+132510,Huddinge,Sweden
+132511,Hudiksvall,Sweden
+132512,Hultsfred,Sweden
+132513,Hunnebostrand,Sweden
+132514,Hyltebruk,Sweden
+132515,Hällefors,Sweden
+132516,Härnösand,Sweden
+132517,Hässleholm,Sweden
+132518,Höganäs,Sweden
+132519,Högsby,Sweden
+132520,Hörby,Sweden
+132521,Hörnefors,Sweden
+132522,Höör,Sweden
+132523,Jakobsberg,Sweden
+132524,Jokkmokk,Sweden
+132525,Järvsö,Sweden
+132526,Jönköping,Sweden
+132527,Kalix,Sweden
+132528,Kalmar,Sweden
+132529,Karlsborg,Sweden
+132530,Karlshamn,Sweden
+132531,Karlskoga,Sweden
+132532,Karlskrona,Sweden
+132533,Karlstad,Sweden
+132534,Katrineholm,Sweden
+132535,Kil,Sweden
+132536,Kinna,Sweden
+132537,Kiruna,Sweden
+132538,Kisa,Sweden
+132539,Kista,Sweden
+132540,Kivik,Sweden
+132541,Klintehamn,Sweden
+132542,Klippan,Sweden
+132543,Knivsta,Sweden
+132544,Kopparberg,Sweden
+132545,Kramfors,Sweden
+132546,Kristianstad,Sweden
+132547,Kristinehamn,Sweden
+132548,Krokom,Sweden
+132549,Kumla,Sweden
+132550,Kungsbacka,Sweden
+132551,Kungshamn,Sweden
+132552,Kungsängen,Sweden
+132553,Kungsör,Sweden
+132554,Kungälv,Sweden
+132555,Kävlinge,Sweden
+132556,Kåge,Sweden
+132557,Köping,Sweden
+132558,Laholm,Sweden
+132559,Landskrona,Sweden
+132560,Laxå,Sweden
+132561,Leksand,Sweden
+132562,Lerum,Sweden
+132563,Lessebo,Sweden
+132564,Lidingö,Sweden
+132565,Lidköping,Sweden
+132566,Lilla Edet,Sweden
+132567,Lindesberg,Sweden
+132568,Lindome,Sweden
+132569,Linköping,Sweden
+132570,Ljungby,Sweden
+132571,Ljusdal,Sweden
+132572,Lomma,Sweden
+132573,Ludvika,Sweden
+132574,Luleå,Sweden
+132575,Lund,Sweden
+132576,Lycksele,Sweden
+132577,Lysekil,Sweden
+132578,Majorna,Sweden
+132579,Malmberget,Sweden
+132580,Malmö,Sweden
+132581,Malung,Sweden
+132582,Malå,Sweden
+132583,Mariestad,Sweden
+132584,Markaryd,Sweden
+132585,Marstrand,Sweden
+132586,Mellerud,Sweden
+132587,Mjölby,Sweden
+132588,Mora,Sweden
+132589,Motala,Sweden
+132590,Munkedal,Sweden
+132591,Märsta,Sweden
+132592,Mölndal,Sweden
+132593,Mölnlycke,Sweden
+132594,Mönsterås,Sweden
+132595,Mörbylånga,Sweden
+132596,Nacka,Sweden
+132597,Njurundabommen,Sweden
+132598,Nora,Sweden
+132599,Norberg,Sweden
+132600,Nordmaling,Sweden
+132601,Norrköping,Sweden
+132602,Norrtälje,Sweden
+132603,Norsjö,Sweden
+132604,Nossebro,Sweden
+132605,Nybro,Sweden
+132606,Nyköping,Sweden
+132607,Nynäshamn,Sweden
+132608,Nässjö,Sweden
+132609,Ockelbo,Sweden
+132610,Olofström,Sweden
+132611,Onsala,Sweden
+132612,Orsa,Sweden
+132613,Osby,Sweden
+132614,Oskarshamn,Sweden
+132615,Oxelösund,Sweden
+132616,Pajala,Sweden
+132617,Partille,Sweden
+132618,Perstorp,Sweden
+132619,Piteå,Sweden
+132620,Rimforsa,Sweden
+132621,Robertsfors,Sweden
+132622,Ronneby,Sweden
+132623,Rättvik,Sweden
+132624,Råneå,Sweden
+132625,Sala,Sweden
+132626,Salem,Sweden
+132627,Sandviken,Sweden
+132628,Sigtuna,Sweden
+132629,Simrishamn,Sweden
+132630,Sjöbo,Sweden
+132631,Skara,Sweden
+132632,Skellefteå,Sweden
+132633,Skinnskatteberg,Sweden
+132634,Skoghall,Sweden
+132635,Skurup,Sweden
+132636,Skutskär,Sweden
+132637,Skärhamn,Sweden
+132638,Skövde,Sweden
+132639,Slite,Sweden
+132640,Smedjebacken,Sweden
+132641,Smögen,Sweden
+132642,Sollefteå,Sweden
+132643,Sollentuna,Sweden
+132644,Sorsele,Sweden
+132645,Staffanstorp,Sweden
+132646,Stenungsund,Sweden
+132647,Stockholm,Sweden
+132648,Storfors,Sweden
+132649,Storuman,Sweden
+132650,Strängnäs,Sweden
+132651,Strömstad,Sweden
+132652,Strömsund,Sweden
+132653,Sundbyberg,Sweden
+132654,Sundsvall,Sweden
+132655,Sunne,Sweden
+132656,Surahammar,Sweden
+132657,Svalöv,Sweden
+132658,Svedala,Sweden
+132659,Sveg,Sweden
+132660,Svenljunga,Sweden
+132661,Säffle,Sweden
+132662,Säter,Sweden
+132663,Sävar,Sweden
+132664,Sävast,Sweden
+132665,Sävsjö,Sweden
+132666,Söderhamn,Sweden
+132667,Söderköping,Sweden
+132668,Södertälje,Sweden
+132669,Sölvesborg,Sweden
+132670,Tanumshede,Sweden
+132671,Tibro,Sweden
+132672,Tidaholm,Sweden
+132673,Tierp,Sweden
+132674,Timrå,Sweden
+132675,Tingsryd,Sweden
+132676,Tomelilla,Sweden
+132677,Torsby,Sweden
+132678,Torsås,Sweden
+132679,Tranemo,Sweden
+132680,Tranås,Sweden
+132681,Trelleborg,Sweden
+132682,Trollhättan,Sweden
+132683,Trosa,Sweden
+132684,Tumba,Sweden
+132685,Täby,Sweden
+132686,Töcksfors,Sweden
+132687,Töre,Sweden
+132688,Töreboda,Sweden
+132689,Uddevalla,Sweden
+132690,Ulricehamn,Sweden
+132691,Umeå,Sweden
+132692,Upplands-Väsby,Sweden
+132693,Uppsala,Sweden
+132694,Ursviken,Sweden
+132695,Vadstena,Sweden
+132696,Vaggeryd,Sweden
+132697,Valdemarsvik,Sweden
+132698,Vallentuna,Sweden
+132699,Vansbro,Sweden
+132700,Vara,Sweden
+132701,Varberg,Sweden
+132702,Vaxholm,Sweden
+132703,Vellinge,Sweden
+132704,Vetlanda,Sweden
+132705,Vilhelmina,Sweden
+132706,Vimmerby,Sweden
+132707,Vindeln,Sweden
+132708,Vingåker,Sweden
+132709,Visby,Sweden
+132710,Vänersborg,Sweden
+132711,Vännäs,Sweden
+132712,Värnamo,Sweden
+132713,Västerhaninge,Sweden
+132714,Västervik,Sweden
+132715,Västerås,Sweden
+132716,Växjö,Sweden
+132717,Vårgårda,Sweden
+132718,Ystad,Sweden
+132719,Älmhult,Sweden
+132720,Älvdalen,Sweden
+132721,Älvkarleby,Sweden
+132722,Älvsbyn,Sweden
+132723,Ängelholm,Sweden
+132724,Åhus,Sweden
+132725,Åkersberga,Sweden
+132726,Åmål,Sweden
+132727,Ånge,Sweden
+132728,Åre,Sweden
+132729,Årjäng,Sweden
+132730,Åseda,Sweden
+132731,Åsele,Sweden
+132732,Åstorp,Sweden
+132733,Åtvidaberg,Sweden
+132734,Öckerö,Sweden
+132735,Ödeshög,Sweden
+132736,Örebro,Sweden
+132737,Örkelljunga,Sweden
+132738,Örnsköldsvik,Sweden
+132739,Östersund,Sweden
+132740,Östhammar,Sweden
+132741,Övertorneå,Sweden

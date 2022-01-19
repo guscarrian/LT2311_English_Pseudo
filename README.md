@@ -105,6 +105,15 @@ En el jupyter notebook 'list_maching_simple.py'
 
 
 
+## Fíjate y comenta si vas a probar con input.txt en el terminal:
+- Si pones dos veces el mismo país, en teoría debería identificarlo como país_1 y cada vez que salga en el input text, debería reemplazarlo por el mismo país. 
+Es decir:
+Si yo digo: "I was born in Spain. I am currently living in Sweden but I also miss Spain."
+Spain --> country_1 --> Replacement: Germany
+Sweden --> country_2 --> Replacement: Andorra
+
+"I was born in Germany. I am currently living in Andorra but I also miss Germany."
+
 
 
 
