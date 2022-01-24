@@ -1,0 +1,21 @@
+- Test date formats: how many of them are implemented and working, which ones were a challenge and we could not make them work.
+
+- Test cities and countries.
+
+- Professions:
+    - Dataset --> format
+    - Old data --> format
+    - Convert new data into old format
+    - Is the new dataset more exhaustive?
+    - ATENTION!: Something rather peculiar in the old dataset is that when the profession name comes together with some sort of 'detailed informatation/clarification' it is written between inverted commas. Ex: "Ackompanjatör, klassisk musik"
+    
+    - 3 columns: [line count, SSYK 2012 code, Yrkesbenämning]
+    - Can we maybe (as an option) change the SSYK code (swedish) for the ISCO code (i think it was called like that in English)?
+    - Does the new database include the ISCO code for each profession/job?
+    
+    
+
+- Universities:
+    - Find a list of the top 100 universities in the world maybe(?)
+    - Make a list as in --> list_universities = ['______', '_______', ...]
+    

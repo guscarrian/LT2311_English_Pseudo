@@ -69,15 +69,15 @@ def siblings(data, list_siblings):
         if j == y[0]:
           z[i] = random.choice(list_siblings)
       temp_list.append(' '.join(z))
-    elif re.search(r'bröder', x):
-      y = re.findall(r' ([\w]+) bröder', x)    #brothers (plural?)
+    elif re.search(r'brothers', x):
+      y = re.findall(r' ([\w]+) brothers', x)    #brothers (plural?) --> original: bröder
       z = x.split(' ')
       for i, j in enumerate(z):
         if j == y[0]:
           z[i] = random.choice(list_siblings)
       temp_list.append(' '.join(z))
-    elif re.search(r'systern', x):              #systern --> singular bestämd form?? --> systrar?pl
-      y = re.findall(r' ([\w]+) systern', x)
+    elif re.search(r'sisters', x):              #systern --> singular bestämd form?? --> systrar?pl
+      y = re.findall(r' ([\w]+) sisters', x)
       z = x.split(' ')
       for i, j in enumerate(z):
         if j == y[0]:
@@ -95,7 +95,7 @@ if __name__ == '__main__':
   
   #list_family = ['kompis', 'sambo','föräldrar','far','pappa','mamma','mor','barn','son','dotter','fru','bror','syster','farbror','morbror','faster','moster','kusin','brorson','systerson','nevö','brorsdotter','systerdotter','farföräldar','morföräldar','farfar','morfar','farmor','mormor','barnbarn','sonson','sondotter','svärfar','svärmor','svåger','svägerska']
   
-  list_family = ['partner?', 'cohabitant', 'parents',' father ',' dad ',' mother ',' mum ',' child ',' son ',' daughter ',' wife ',' brother ',' sister ',' uncle ',' aunt ',' cousin ',' nephew ',' niece ', 'grandparents' , 'grandfather', 'grandmother', 'granddaughter', 'grandson', 'father-in-law', 'mother-in-law', 'brother-in-law', 'sister-in-law']
+  list_family = ['partner?', 'cohabitant', 'parents','father','dad','mother','mum','child','son','daughter','wife','brother','sister','uncle','aunt','cousin','nephew','niece', 'grandparents' , 'grandfather', 'grandmother', 'granddaughter', 'grandson', 'father-in-law', 'mother-in-law', 'brother-in-law', 'sister-in-law']
 
   #list_siblings = ['två', 'tre', 'fyra', 'fem', 'sex', 'sju']
 

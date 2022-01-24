@@ -133,6 +133,7 @@ if __name__ == '__main__':
   #list_months = ['januari', 'februari', 'mars', 'april', 'maj', 'juni', 'juli', 'augusti', 'september', 'oktober', 'november', 'december']
 
   list_days = ['Monday', 'monday', 'Tuesday', 'tuesday', 'Wednesday', 'wednesday', 'Thursday', 'thursday', 'Friday', 'friday', 'Saturday', 'saturday', 'Sunday', 'sunday']
+    
   list_months = ['January', 'january', 'February', 'february', 'March', 'march', 'April', 'april', 'May', 'may', 'June', 'june', 'July', 'july', 'August', 'august', 'September', 'september', 'October', 'october', 'November', 'november', 'December', 'december']
 
   parser = argparse.ArgumentParser(description='Program takes an input text file and output text file')
